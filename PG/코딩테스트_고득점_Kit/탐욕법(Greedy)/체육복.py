@@ -7,34 +7,18 @@
 '''
 
 def solution(n, lost, reserve):
-    lost = sorted(lost)
-    reserve = sorted(reserve)
+   
+    set_reserve = set(reserve) - set(lost)  # 초기세팅
+    set_lost = set(lost) - set(reserve)     # 여분있어도 강탈당하면 둘다 제거!
 
-    n = n - len(lost)
-
-    for i in reserve:
-        if i in lost:
-            reserve.remove(i)
-            lost.remove(i)
-    
-    delete_list = []
-    for i in lost:
-        if i-1 in reserve:
-            n += 1
-            reserve.remove(i-1)
-            delete_list.append(i)
-
-    for i in delete_list:
-        lost.remove(i)
-
-    for i in lost:
-        if i+1 in reserve:
-            n += 1
-            reserve.remove(i+1)        
-
-    return n
-
+    for i in set_reserve:               # 여분친구들
+        if i-1 in set_lost:             # 앞번호
+            set_lost.remove(i-1)
+        elif i+1 in set_lost:           # 뒷번호
+            set_lost.remove(i+1)
+    return n-len(set_lost)              # 전체에서 그래도 참가못하는 제거
 
 print(solution(5, [2, 4], [1, 3, 5])) # 5
 print(solution(5, [2, 4], [3]))   # 4
 print(solution(3, [3], [1]))  # 2
+print(solution(3, [1, 2, 3], [1, 2, 3]))  # 3
