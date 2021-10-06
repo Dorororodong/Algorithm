@@ -27,7 +27,7 @@ i와 j가 서로 같은 경우의 Sij값은 정의되지 않는다. 입력에서
 
 from pandas import DataFrame
 from itertools import combinations      # 딴건 모르겠고, 조합으로 감
-
+                                        # itertools 못쓰면, 동완님 코드!?!
 import sys
 sys.stdin = open('input.txt')
 

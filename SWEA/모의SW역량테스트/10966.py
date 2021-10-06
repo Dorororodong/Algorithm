@@ -81,15 +81,19 @@ def BFS_water_to_land():            # 물에서 땅으로 / 땅에서 물로하�
                 visited[i][j] = 0
 
     while Q:
-        pos = Q.popleft()                   # 왼쪽꺼를 뽑아야 먼저 뽑음
+        # pos = Q.popleft()                   # 왼쪽꺼를 뽑아야 먼저 뽑음
+        x, y = Q.popleft()
 
         for i in range(4):                  # 4방향 탐색
-            nx = pos[0] + dx[i]
-            ny = pos[1] + dy[i]
+            nx = x + dx[i]
+            ny = y + dy[i]
+            # nx = pos[0] + dx[i]
+            # ny = pos[1] + dy[i]
 
             if 0 <= nx < N and 0 <= ny < M and visited[nx][ny] == -1:       # 범위 / 방문유무 / 글자유무는 체크안함 (방문유무에서 걸러짐)
                 Q.append((nx, ny))      # 해당하는 좌표 넣어줌                 ########## 리스트하면 안되고, 튜플 하면 됨 ##########
-                visited[nx][ny] = visited[pos[0]][pos[1]] + 1               # 거리계산을 위해 1씩 증가
+                visited[nx][ny] = visited[x][y] + 1
+                # visited[nx][ny] = visited[pos[0]][pos[1]] + 1               # 거리계산을 위해 1씩 증가
 
     for i in visited:       # 거리 전부다 탐색해서 다 더해버림 : 최소 거리들의 합
         result += sum(i)

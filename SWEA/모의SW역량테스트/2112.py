@@ -18,14 +18,25 @@
 셀이 가질 수 있는 특성은 A, B 두 개만 존재
 '''
 
+def check(film, cobination_num):
+    global inspect
+
+    for i in combination_num:
+        if
+
 
 def use_drug():
     global inspect
 
+    D_num = [i for i in range(D)]
+
+    for i in range(1, D+1):
+        combination_num = combinations(D_num, i)
+        check(film, combination_num)
 
 
-    return
-
+from itertools import combinations
+from copy import deepcopy
 from pandas import DataFrame
 import sys
 sys.stdin = open('input.txt')
@@ -36,25 +47,29 @@ for tc in range(1, T+1):
     D, W, K = map(int, input().split())     # D : 두께, W : 가로크기, K : 합격기준
     film = [list(map(int, input().split())) for _ in range(D)]  # A : 0, B : 1
     # print(DataFrame(film))
-    inspect = 0
+    inspect = 0     # 약품 미사용 : 0 / 약품 사용 : 사용 횟수
 
-    for i in range(W):
+    if K == 1:      # K가 1이면 걍 통과 끝
+        print('#{} {}'.format(tc, inspect))
+
+
+    for i in range(W):      # 열
         inspection_list = []
         cnt = 0
-        for j in range(D):
+        for j in range(D):      # 행 / 위에서 아래로 쭉 검사
             if len(inspection_list) == 0:
-                inspection_list.append(film[j][i])
-                cnt += 1
+                inspection_list.append(film[j][i])      # 시작할땐 0인지 1인지 넣어주고
+                cnt += 1        # K와 비교하기 위해 cnt진행
             else:
-                if inspection_list[-1] == film[j][i]:
-                    cnt += 1
-                    if cnt >= K:
-                        break
-                else:
-                    inspection_list[-1] = film[j][i]
-                    cnt = 1
-                    if j > D-K:
-                        use_drug()
+                if inspection_list[-1] == film[j][i]:   # 같으면
+                    cnt += 1        # cnt +1
+                    if cnt >= K:    # K이상이면 해당열은 합격
+                        break       # 다음 열로 넘어감
+                else:                                   # 다르면
+                    inspection_list[-1] = film[j][i]    # 해당 숫자 바꿔주고
+                    cnt = 1                             # 1로 다시 시작
+                    if j > D-K:                         # 남은 것을 봐도 K가 안되는 위치이면
+                        use_drug()                      # 약품쓰는 함수로 Go
 
     print('#{} {}'.format(tc, inspect))
 
