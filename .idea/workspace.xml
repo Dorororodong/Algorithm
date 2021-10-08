@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/1012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/1697.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/1707.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/2178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/2206.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/2667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/7562.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/7569.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/24단계/7576.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/10809.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/1157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/2475.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/2908.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/2920.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/8958.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/24단계/1303.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/2단계/2573.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/2단계/2753.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/4단계/10951.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/4단계/10951.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/4단계/10952.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/4단계/10952.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/D2/1970.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D2/1970.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,42 +54,22 @@
         <option value="$PROJECT_DIR$/BJ/Bronze/2920.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/8958.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/1157.py" />
+        <option value="$PROJECT_DIR$/SWEA/D2/1970.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="3829" />
-    <option name="width" value="1940" />
-    <option name="height" value="2111" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3828" />
+    <option name="width" value="1941" />
+    <option name="height" value="2112" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
-              <item name="Bronze" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,9 +217,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3193" y="0" width="1293" height="1407" extended-state="0" />
+    <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23328026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115445234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -326,9 +288,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BJ/3단계/10871.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BJ/3단계/10950.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -514,6 +473,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BJ/Bronze/8958.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D2/1970.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
