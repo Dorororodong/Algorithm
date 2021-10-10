@@ -13,17 +13,41 @@
 import sys
 sys.stdin = open('input.txt')
 
+def DFS():
+    global max_num
+    global min_num
+
+    if max_num < :
+        max_num =
+    if min_num > :
+        min_num =
+
+    for i in range(4):
+        if operator_num[i] > 0:
+            operator_num[i] = operator_num[i] - 1
+            if i == 0:
+                +
+            elif i == 1:
+                -
+            elif i == 2:
+                *
+            else:
+               int( / )
+
+
+    return
+
 T = int(input())
 
 for tc in range(1, T+1):
     N = int(input())
     operator_num = list(map(int, input().split()))      # + - * /
     number_list = list(map(int, input().split()))       # 순서보장
-    result_list = []
 
+    max_num = -987654321
+    min_num = 987654321
 
-
-    print('#{} {}'.format(tc, max(result_list) - min(result_list)))
+    DFS()
 
 #1 24
 #2 8
@@ -35,3 +59,67 @@ for tc in range(1, T+1):
 #8 2160
 #9 46652
 #10 701696
+
+
+'''
+import copy
+from collections import deque
+from itertools import permutations
+import sys
+sys.stdin = open('input.txt')
+
+T = int(input())
+
+for tc in range(1, T+1):
+    N = int(input())
+    operator_num = list(map(int, input().split()))      # + - * /
+    number_list = list(map(int, input().split()))       # 순서보장 / popleft, appendleft 이용?
+    number_dq = deque(number_list)
+
+    # print(operator_num)
+    # print(number_list)
+
+    operator_list = []
+
+    for i in range(4):
+        if operator_num[i] == 0:
+            continue
+        else:
+            if i == 0:
+                for _ in range(operator_num[i]):
+                    operator_list.append('+')
+            elif i == 1:
+                for _ in range(operator_num[i]):
+                    operator_list.append('-')
+            elif i == 2:
+                for _ in range(operator_num[i]):
+                    operator_list.append('*')
+            else:
+                for _ in range(operator_num[i]):
+                    operator_list.append('/')
+    # print(operator_list)
+
+    data = permutations(operator_list, N-1)
+    data_set = set(data)
+    # print(list(data))
+
+    result_list = []
+
+    for i in list(data_set):
+        number_dq_c = copy.copy(number_dq)
+        for j in i:
+            if j == '+':
+                number_dq_c.appendleft(number_dq_c.popleft() + number_dq_c.popleft())
+            elif j == '-':
+                number_dq_c.appendleft(number_dq_c.popleft() - number_dq_c.popleft())
+            elif j == '*':
+                number_dq_c.appendleft(number_dq_c.popleft() * number_dq_c.popleft())
+            else:
+                number_dq_c.appendleft(int(number_dq_c.popleft() / number_dq_c.popleft()))
+
+        if len(number_dq_c) == 1:
+            if number_dq_c[-1] not in result_list:
+                result_list.append(number_dq_c[-1])
+
+    print('#{} {}'.format(tc, max(result_list) - min(result_list)))
+'''

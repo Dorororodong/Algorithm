@@ -1,43 +1,26 @@
-# import sys
-# sys.stdin = open('input.txt')
-#
-# def perm(n, m, k):
-#
-#     if n == k:                              # 모든 자리가 결정이 됐다면
-#         if sum(p) in result_list:
-#             return
-#         else:
-#             result_list.append(sum(p))
-#             return
-#     else:
-#         for i in range(m):                  # 주어진 숫자의 개수만큼 반복을 돌며
-#             if not u[i]:                    # 아직 사용하지 않은 자리라면
-#                 u[i] = 1                    # 사용했다고 표시하고
-#                 p[k] = score_list[i]        # 그 숫자를 넣고
-#                 perm(n, m, k+1)             # 다음 자리를 결정하러 가자
-#                 u[i] = 0                    # 돌아와서 원상복구
-#
-# T = int(input())
-#
-# for tc in range(1, T+1):
-#     N = int(input())
-#     score_list = list(map(int, input().split()))
-#     result_list = []
-#
-#     p = [0] * N
-#     u = [0] * N
-#     for i in range(1, N+1):
-#         perm(i, N, 0)
-#
-#     print('#{} {}'.format(tc, len(result_list) + 1))
-#
-#
-#     """
-#     :param n: 순열의 길이
-#     :param m:
-#     :param k: 결정 할 위치
-#     :return:
-#     """
+# DP 힌트 얻고, DP 읽음
+# 앞에서 했는데 도저히 안되서, 뒤로 하니까... 됨!
+
+import sys
+sys.stdin = open('input.txt')
+
+T = int(input())
+
+for tc in range(1, T+1):
+    N = int(input())
+    score_list = list(map(int, input().split()))
+
+    dp = [0] * (sum(score_list) + 1)        # 0부터 최대까지
+
+    dp[0] = 1                               # 0은 무조건 되니까 체크
+
+    for i in score_list:                    # 0+2 / 2+3, 0+3 / 5+5, 3+5, 2+5, 0+5(중복)
+        for j in range(len(dp)-1, -1, -1):
+            if dp[j] == 1:
+                dp[i+j] = 1
+
+    print('#{} {}'.format(tc, sum(dp)))
+
 
 '''
 from itertools import permutations

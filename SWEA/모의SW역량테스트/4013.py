@@ -18,165 +18,103 @@ K번 자석을 회전시킨 후 획득하는 점수의 총 합을 출력
 '''
 
 def rotation_play(i):
-
-    if i[0] == 1 and visited[i[0] -1] == 0:       # 첫번째
-        visited[i[0] - 1] = 1
-        if i[1] == 1:    # 시계
-            if visited[i[0]] == 1:      # 2에서 넘어왔다면
-                magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-
-            else:
-                if magnet[i[0] - 1][2] == magnet[i[0]][-2]:
-                    magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-
-                else:
-                    magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-                    rotation_play((2, -1))
-
-        else:           # 반시계
-            if visited[i[0]] == 1:  # 2에서 넘어왔다면
+    if i[0] == 1 and visited[i[0] -1] == 0:         # 첫번째, 방문안했으면
+        visited[i[0] - 1] = 1                       # 방문체크
+        if i[1] == 1:                               # 시계
+            if visited[i[0]] == 1:                  # 2에서 넘어왔다면
+                magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]   # 회전
+            else:                                   # 1이 선택된거면
+                if magnet[i[0] - 1][2] == magnet[i[0]][-2]:     # 같으면
+                    magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]   # 회전
+                else:                                           # 다르면
+                    magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]   # 회전
+                    rotation_play((2, -1))          # 2번도 회전(반대반향으로)
+        else:                                       # 반시계
+            if visited[i[0]] == 1:                  # 2에서 넘어왔다면
                 magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-
-            else:
+            else:                                   # 1이 선택된거면
                 if magnet[i[0] - 1][2] == magnet[i[0]][-2]:
                     magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-
                 else:
                     magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
                     rotation_play((2, 1))
 
-
-    elif i[0] == 4 and visited[i[0] -1] == 0:     # 4번째
+    elif i[0] == 4 and visited[i[0] -1] == 0:       # 네번째, 방문안했으면
         visited[i[0] - 1] = 1
-        if i[1] == 1:       # 시계
-            if visited[i[0]-2] == 1:        # 3에서 넘어왔다면
+        if i[1] == 1:
+            if visited[i[0]-2] == 1:
                 magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-
             else:
                 if magnet[i[0] - 1][-2] == magnet[i[0] - 2][2]:
                     magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-
                 else:
                     magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
                     rotation_play((3, -1))
-
-        else:       # 반시계
-            if visited[i[0] - 2] == 1:  # 3에서 넘어왔다면
+        else:
+            if visited[i[0] - 2] == 1:
                 magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-
             else:
                 if magnet[i[0] - 1][-2] == magnet[i[0] - 2][2]:
                     magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-
                 else:
                     magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
                     rotation_play((3, 1))
 
-
-    else:       # 2번째랑 3번째
+    else:                                           # 두/세번째
         if visited[i[0] - 1] == 0:
             visited[i[0] - 1] = 1
-            if i[1] == 1:  # 시계
-                if visited[i[0] - 2] == 1:      # 왼쪽에서 넘어왔다면?
+            if i[1] == 1:
+                if visited[i[0] - 2] == 1:          # 왼쪽에서 넘어왔다면
                     if magnet[i[0] - 1][2] == magnet[i[0]][-2]:
                         magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
                     else:
                         magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
                         rotation_play((i[0]+1, -1))
-
-
-                elif visited[i[0]] == 1:        # 오른쪽에서 넘어왓따면?
+                elif visited[i[0]] == 1:        # 오른쪽에서 넘어왓따면
                     if magnet[i[0] - 1][-2] == magnet[i[0] -2][2]:
                         magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-
                     else:
                         magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
                         rotation_play((i[0]-1, -1))
-
-
-                else:  # 내가 시작이라면?
+                else:                           # 내가 시작이라면
                     if magnet[i[0] - 1][2] == magnet[i[0]][-2] and magnet[i[0] - 1][-2] == magnet[i[0] - 2][2]:
                         magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-
                     elif magnet[i[0] - 1][2] != magnet[i[0]][-2] and magnet[i[0] - 1][-2] == magnet[i[0] - 2][2]:
                         magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
                         rotation_play((i[0] + 1, -1))
-
                     elif magnet[i[0] - 1][2] == magnet[i[0]][-2] and magnet[i[0] - 1][-2] != magnet[i[0] - 2][2]:
                         magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
                         rotation_play((i[0] - 1, -1))
-
                     else:
                         magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
                         rotation_play((i[0] + 1, -1))
                         rotation_play((i[0] - 1, -1))
-
-
-
-                # if magnet[i[0] - 1][2] == magnet[i[0]][-2]:
-                #     magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-                #
-                # if magnet[i[0] - 1][2] == magnet[i[0] - 2][-2]:
-                #     magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-                #
-                # if magnet[i[0] - 1][2] != magnet[i[0]][-2]:     # 마주 닿는 부분이 다르면, 회전 함 (오)
-                #     magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-                #     rotation_play((i[0]+1, -1))
-                #
-                # if magnet[i[0]-1][2] != magnet[i[0]-2][-2]:     # 마주 닿는 부분이 다르면, 회전 함 (왼)
-                #     magnet[i[0] - 1] = [magnet[i[0] - 1][-1]] + magnet[i[0] - 1][0:7]
-                #     rotation_play((i[0]-1, -1))
-
-            else:  # 반시계
-                if visited[i[0] - 2] == 1:      # 왼쪽에서 넘어왔다면?
+            else:
+                if visited[i[0] - 2] == 1:
                     if magnet[i[0] - 1][2] == magnet[i[0]][-2]:
                         magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
                     else:
                         magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
                         rotation_play((i[0]+1, 1))
-
-
-                elif visited[i[0]] == 1:        # 오른쪽에서 넘어왓따면?
+                elif visited[i[0]] == 1:
                     if magnet[i[0] - 1][-2] == magnet[i[0] -2][2]:
                         magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-
                     else:
                         magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
                         rotation_play((i[0]-1, 1))
-
-                else:                           # 내가 시작이라면?
+                else:
                     if magnet[i[0] - 1][2] == magnet[i[0]][-2] and magnet[i[0] - 1][-2] == magnet[i[0] -2][2]:
                         magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-
                     elif magnet[i[0] - 1][2] != magnet[i[0]][-2] and magnet[i[0] - 1][-2] == magnet[i[0] -2][2]:
                         magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
                         rotation_play((i[0]+1, 1))
-
                     elif magnet[i[0] - 1][2] == magnet[i[0]][-2] and magnet[i[0] - 1][-2] != magnet[i[0] -2][2]:
                         magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
                         rotation_play((i[0]-1, 1))
-
                     else:
                         magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
                         rotation_play((i[0]+1, 1))
                         rotation_play((i[0]-1, 1))
-
-
-
-                # if magnet[i[0] - 1][2] == magnet[i[0]][-2]:
-                #     magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-                #
-                # if magnet[i[0] - 1][2] == magnet[i[0] - 2][-2]:
-                #     magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-                #
-                # if magnet[i[0] - 1][2] != magnet[i[0]][-2]:  # 마주 닿는 부분이 다르면, 회전 함 (오)
-                #     magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-                #     rotation_play((i[0] + 1, 1))
-                #
-                # if magnet[i[0] - 1][2] != magnet[i[0] - 2][-2]:  # 마주 닿는 부분이 다르면, 회전 함 (왼)
-                #     magnet[i[0] - 1] = magnet[i[0] - 1][1:8] + [magnet[i[0] - 1][0]]
-                #     rotation_play((i[0] - 1, 1))
-
 
 import sys
 sys.stdin = open('input.txt')
@@ -192,18 +130,15 @@ for tc in range(1, T+1):
     total_score = 0
 
     for r in rotate:
-        visited = [0] * 4
-        rotation_play(r)       # 자석번호(idx+1), 회전방향
+        visited = [0] * 4       # 방문 체크, 역으로 다시 안가게
+        rotation_play(r)        # 자석번호(idx+1), 회전방향
 
-    if magnet[0][0] == 1:
+    if magnet[0][0] == 1:       # 최종 계산
         total_score += 1
-
     if magnet[1][0] == 1:
         total_score += 2
-
     if magnet[2][0] == 1:
         total_score += 4
-
     if magnet[3][0] == 1:
         total_score += 8
 
