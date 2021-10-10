@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/9단계/4153.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/9단계/4153.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/D4/3752.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D4/3752.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/D4/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D4/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/모의SW역량테스트/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/모의SW역량테스트/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>arr</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +38,6 @@
         <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/10966.py" />
         <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/2112.py" />
         <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/4012.py" />
-        <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py" />
         <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/1952.py" />
         <option value="$PROJECT_DIR$/BJ/12단계/1181.py" />
         <option value="$PROJECT_DIR$/BJ/5단계/3052.py" />
@@ -41,10 +48,7 @@
         <option value="$PROJECT_DIR$/SWEA/D4/2819.py" />
         <option value="$PROJECT_DIR$/SWEA/D4/1861.py" />
         <option value="$PROJECT_DIR$/SWEA/D4/4366.py" />
-        <option value="$PROJECT_DIR$/SWEA/D4/3752.py" />
-        <option value="$PROJECT_DIR$/SWEA/D4/input.txt" />
         <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/4008.py" />
-        <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/input.txt" />
         <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/2115.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/2908.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/2475.py" />
@@ -58,6 +62,10 @@
         <option value="$PROJECT_DIR$/BJ/9단계/11653.py" />
         <option value="$PROJECT_DIR$/BJ/9단계/1929.py" />
         <option value="$PROJECT_DIR$/BJ/9단계/4153.py" />
+        <option value="$PROJECT_DIR$/SWEA/D4/input.txt" />
+        <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/input.txt" />
+        <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py" />
+        <option value="$PROJECT_DIR$/SWEA/D4/3752.py" />
       </list>
     </option>
   </component>
@@ -71,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,12 +89,19 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="D4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,28 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4153">
-    <configuration name="1157" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/1157.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.3752">
     <configuration name="11653" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,6 +162,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3752" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D4/3752.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4013" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/모의SW역량테스트" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="4153" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,34 +225,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8958" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/8958.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3752" />
+        <item itemvalue="Python.4013" />
         <item itemvalue="Python.4153" />
         <item itemvalue="Python.1929" />
         <item itemvalue="Python.11653" />
-        <item itemvalue="Python.8958" />
-        <item itemvalue="Python.1157" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +251,7 @@
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115445234" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.115445234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -253,7 +267,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Debug" order="3" weight="0.45447317" />
+      <window_info anchor="right" id="Debug" order="3" weight="0.4194831" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -264,20 +278,23 @@
           <line>31</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py</url>
+          <line>183</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="N" />
+        <watch expression="K" />
         <watch expression="T" />
-        <watch expression="dx" />
-        <watch expression="dy" />
-        <watch expression="i" />
-        <watch expression="j" />
-        <watch expression="max_num" />
-        <watch expression="position" />
-        <watch expression="room" />
+        <watch expression="magnet" />
+        <watch expression="r" />
+        <watch expression="rotate" />
         <watch expression="tc" />
+        <watch expression="total_score" />
+        <watch expression="visited" />
       </configuration>
     </watches-manager>
   </component>
@@ -306,28 +323,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BJ/3단계/15552.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/4단계/1110.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/5단계/1546.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/5단계/2562.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/5단계/2577.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/5단계/3052.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BJ/5단계/4344.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -504,6 +499,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/모의SW역량테스트/1952.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/모의SW역량테스트/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4554">
+          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4/3752.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3003">
+          <caret line="91" column="22" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D4/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
