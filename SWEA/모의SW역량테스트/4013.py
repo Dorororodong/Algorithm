@@ -143,16 +143,3 @@ for tc in range(1, T+1):
         total_score += 8
 
     print('#{} {}'.format(tc, total_score))
-
-'''
-#1 2
-#2 6
-#3 2
-#4 7
-#5 5
-#6 15
-#7 6
-#8 10
-#9 13
-#10 0
-'''

@@ -66,3 +66,16 @@ for tc in range(1, T + 1):
             flavor_difference = abs(flavor_sum_1 - flavor_sum_2)
 
     print('#{} {}'.format(tc, flavor_difference))
+
+'''
+#1 10
+#2 14
+#3 3
+#4 13
+#5 15
+#6 10
+#7 2
+#8 6
+#9 5
+#10 4
+'''

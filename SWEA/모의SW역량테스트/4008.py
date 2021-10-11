@@ -13,41 +13,45 @@
 import sys
 sys.stdin = open('input.txt')
 
-def DFS():
+def DFS(idx, result):
     global max_num
     global min_num
+    global new_result
 
-    if max_num < :
-        max_num =
-    if min_num > :
-        min_num =
+    if idx == N-1:
+        if max_num < result:
+            max_num = result
+        if min_num > result:
+            min_num = result
+            return
 
     for i in range(4):
         if operator_num[i] > 0:
-            operator_num[i] = operator_num[i] - 1
+            operator_num[i] -= 1
             if i == 0:
-                +
+                new_result = result + number_list[idx+1]
             elif i == 1:
-                -
+                new_result = result - number_list[idx+1]
             elif i == 2:
-                *
+                new_result = result * number_list[idx+1]
             else:
-               int( / )
-
-
-    return
+                new_result = int(result / number_list[idx+1])   # int : 정수형으로 처냄
+            DFS(idx+1, new_result)
+            operator_num[i] += 1
 
 T = int(input())
-
 for tc in range(1, T+1):
     N = int(input())
     operator_num = list(map(int, input().split()))      # + - * /
     number_list = list(map(int, input().split()))       # 순서보장
 
     max_num = -987654321
-    min_num = 987654321
+    min_num = 987654321 
+    new_result = 0          # 계산값
 
-    DFS()
+    DFS(0, number_list[0])  # idx 시작, 첫값으로 시작
+
+    print('#{} {}'.format(tc, max_num - min_num))
 
 #1 24
 #2 8
@@ -59,7 +63,6 @@ for tc in range(1, T+1):
 #8 2160
 #9 46652
 #10 701696
-
 
 '''
 import copy
