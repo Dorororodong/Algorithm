@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PG/SQL/SELECT.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/D4/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/D4/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/모의SW역량테스트/2115.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/모의SW역량테스트/2115.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/모의SW역량테스트/4008.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/모의SW역량테스트/4008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/모의SW역량테스트/4012.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/모의SW역량테스트/4012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/모의SW역량테스트/4013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/모의SW역량테스트/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/모의SW역량테스트/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/24단계/2667.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/24단계/2667.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PG/SQL/SELECT.py">
+        <entry file="file://$PROJECT_DIR$/BJ/24단계/2667.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="495">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -81,6 +75,7 @@
         <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/input.txt" />
         <option value="$PROJECT_DIR$/SWEA/모의SW역량테스트/2115.py" />
         <option value="$PROJECT_DIR$/PG/SQL/SELECT.py" />
+        <option value="$PROJECT_DIR$/BJ/24단계/2667.py" />
       </list>
     </option>
   </component>
@@ -104,13 +99,13 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="PG" type="462c0819:PsiDirectoryNode" />
+              <item name="BJ" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="PG" type="462c0819:PsiDirectoryNode" />
-              <item name="SQL" type="462c0819:PsiDirectoryNode" />
+              <item name="BJ" type="462c0819:PsiDirectoryNode" />
+              <item name="24단계" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4013">
+  <component name="RunManager" selected="Python.2667">
     <configuration name="1952" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3752" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2667" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/24단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D4/3752.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/24단계/2667.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2667" />
         <item itemvalue="Python.4013" />
         <item itemvalue="Python.4008" />
         <item itemvalue="Python.2115" />
         <item itemvalue="Python.1952" />
-        <item itemvalue="Python.3752" />
       </list>
     </recent_temporary>
   </component>
@@ -265,13 +260,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115445234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115445234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2730109" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2730109" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -411,9 +407,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BJ/7단계/11654.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/24단계/2667.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BJ/24단계/1012.py">
@@ -585,7 +578,14 @@
     <entry file="file://$PROJECT_DIR$/PG/SQL/SELECT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/24단계/2667.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
