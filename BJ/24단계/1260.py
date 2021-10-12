@@ -6,22 +6,7 @@
 간선은 양방향!!
 '''
 
-
 from collections import deque
-
-
-def DFS(V):
-    visited_d[V] = 1
-    DFS_list.append(V)
-
-    for a in range(1, N+1):
-        # if len(DFS_list) == N:
-        #     break
-        if visited_d[a] == 0 and adj[V][a] == 1:
-            DFS(a)
-
-    return DFS_list
-
 
 def BFS(V):
     Q = deque()
@@ -39,6 +24,17 @@ def BFS(V):
 
     return BFS_list
 
+def DFS(V):
+    visited_d[V] = 1
+    DFS_list.append(V)
+
+    for a in range(1, N+1):
+        # if len(DFS_list) == N:
+        #     break
+        if visited_d[a] == 0 and adj[V][a] == 1:
+            DFS(a)
+
+    return DFS_list
 
 N, M, V = map(int, input().split())         # N : 정점 갯수 / M : 간선 갯수 / V : 탐색을 시작할 정점 번호
 
