@@ -13,7 +13,7 @@ def BFS(x, y, n):
     while Q:
         qx, qy, n = Q.popleft()
 
-        if min_result < n:
+        if min_result <= n:
             continue
 
         if qx == N - 1 and qy == M - 1:
