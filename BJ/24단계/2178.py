@@ -13,8 +13,8 @@ def BFS(x, y, n):
     while Q:
         qx, qy, n = Q.popleft()
 
-        if min_result <= n:
-            continue
+        # if min_result <= n:
+        #     continue
 
         if qx == N - 1 and qy == M - 1:
             if min_result > n:
@@ -41,15 +41,6 @@ min_result = N * M + 1
 BFS(0, 0, 1)
 
 print(min_result)
-
-
-
-
-
-
-
-
-
 
 
 
