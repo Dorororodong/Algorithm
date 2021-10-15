@@ -1,3 +1,18 @@
+'''
+반복문
+'''
+A, B = map(int, input().split())
+
+
+
+
+'''
+BFS
+'''
+
+'''
+DFS
+'''
 opr = [2, 1]
 def DFS(s, f, n):
     global min_result
@@ -26,12 +41,3 @@ if min_result == 987654321:
     min_result = -1
 
 print(min_result)
-
-
-'''
-BFS
-'''
-
-'''
-반복문
-'''
