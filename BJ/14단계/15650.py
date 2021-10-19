@@ -27,12 +27,16 @@ result = []
 
 perm(number_list, M, 0)
 
+
 '''
 from copy import copy
 
 def perm(l, m, k):
     if m == k:
+        copy_list = result
         copy_list = copy(result)
+        # copy_list = result[:]
+
         if copy_list == sorted(result):
             print(*result)
             return

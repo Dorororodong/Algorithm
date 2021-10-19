@@ -6,8 +6,11 @@ make_set
 '''
 DFS
 '''
+import sys
+sys.setrecursionlimit(10e9)
+
 def DFS(x):
-    for i in range(x+1, N+1):
+    for i in range(1, N+1):
         if visited[i] == 0 and adj[x][i] == 1:
             visited[i] = 1
             DFS(i)

@@ -1,7 +1,6 @@
 '''
 반복문
 '''
-A, B = map(int, input().split())
 
 
 '''
@@ -25,11 +24,13 @@ def DFS(s, f, n):
             min_result = n
             return
 
-    for i in opr:
-        if i == 2:
-            DFS(s * 2, f, n+1)
-        else:
-            DFS(s * 10 + 1, f, n+1)
+    DFS(s * 2, f, n + 1)
+    DFS(s * 10 + 1, f, n + 1)
+    # for i in opr:
+    #     if i == 2:
+    #         DFS(s * 2, f, n+1)
+    #     else:
+    #         DFS(s * 10 + 1, f, n+1)
 
 A, B = map(int, input().split())
 
