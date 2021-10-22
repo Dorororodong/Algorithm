@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PG/Level1/평균_구하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/Level1/가운데_글자_가져오기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PG/Level1/가운데_글자_가져오기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -26,7 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/D4/4366.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/2908.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/2475.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/10809.py" />
@@ -77,19 +87,22 @@
         <option value="$PROJECT_DIR$/BJ/18단계/10828.py" />
         <option value="$PROJECT_DIR$/PG/Level1/문자열_다루기_기본.py" />
         <option value="$PROJECT_DIR$/PG/Level1/평균_구하기.py" />
+        <option value="$PROJECT_DIR$/PG/Level1/가운데_글자_가져오기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3828" />
-    <option name="width" value="1941" />
-    <option name="height" value="2112" />
+    <option name="x" value="2323" />
+    <option name="y" value="367" />
+    <option name="width" value="2333" />
+    <option name="height" value="2183" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,7 +125,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.평균_구하기">
+  <component name="RunManager" selected="Python.가운데_글자_가져오기">
     <configuration name="10828" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s2_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="가운데_글자_가져오기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../1019_A형" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../1019_A형/s2_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/가운데_글자_가져오기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.가운데_글자_가져오기" />
         <item itemvalue="Python.평균_구하기" />
         <item itemvalue="Python.문자열_다루기_기본" />
         <item itemvalue="Python.10828" />
         <item itemvalue="Python.9012" />
-        <item itemvalue="Python.s2_1" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +274,7 @@
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17178881" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17218283" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -347,13 +359,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BJ/24단계/2667.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/ssafy-6/algorithm/1006/justin/연습문제_5/s1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -606,6 +611,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/Level1/가운데_글자_가져오기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
