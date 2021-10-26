@@ -18,11 +18,33 @@ sys.stdin = open('input.txt')
 # 0 : 이동 X / 1 : 상 / 2 : 우 / 3 : 하 / 4 : 좌
 delta = [(0, 0), (-1, 0), (0, 1), (1, 0), (0, -1)]
 
-def find_value(x1, y1, x2, y2):
-    global a_power
-    global b_power
+def find_max_power(x1, y1, x2, y2):
+    global all_power
 
-    for i in range():
+    for i in range(len(move_a)):
+        P_list_1 = [0] * A
+        P_list_2 = [0] * A
+
+        x1 += delta[move_a[i]][0]
+        y1 += delta[move_a[i]][1]
+
+        x2 += delta[move_b[i]][0]
+        y2 += delta[move_b[i]][1]
+
+        for j in range(A):
+            if abs(x1-head[j][0]) + abs(y1-head[j][1]) <= coverage[j]:
+                P_list_1[j] = power[j]
+
+            if abs(x2 - head[j][0]) + abs(y2 - head[j][1]) <= coverage[j]:
+                P_list_2[j] = power[j]
+
+        if max(P_list_1) != max(P_list_2):
+            all_power += max(P_list_1)
+            all_power += max(P_list_2)
+
+        else:
+            pass
+        # 여기 모르겠음
 
 
 
@@ -30,22 +52,28 @@ T = int(input())
 
 for tc in range(1, T+1):
     M, A = map(int, input().split())            # M : 이동 시간 / A : 충전소 갯수
-    power = [0] * (A + 1)                       # power 목록
-    coverage = [0] * (A + 1)                    # 충전 범위 목록
-    head = [0] * (A + 1)                        # 본진 좌표
-    move_a = list(map(int, input().split()))    # A 이동정보 (M개) / (0, 0) 출발
-    move_b = list(map(int, input().split()))    # B 이동정보 (M개) / (9, 9) 출발
+    power = [0] * A                             # power 목록
+    coverage = [0] * A                          # 충전 범위 목록
+    head = [0] * A                              # 본진 좌표
+
+    move_a = [0] + list(map(int, input().split()))    # A 이동정보 (M개) / (1, 1) 출발
+    move_b = [0] + list(map(int, input().split()))    # B 이동정보 (M개) / (10, 10) 출발
     
     for i in range(A):
         X, Y, C, P = map(int, input().split())      # X, Y : 좌표 / C : 충전 범위 / P : 처리량
-        power[i+1] = P
-        coverage[i+1] = C
-        head[i+1] = (X-1, Y-1)
+        power[i] = P
+        coverage[i] = C
+        head[i] = (X, Y)
 
-    a_power = 0
-    b_power = 0
+    # print(power)
+    # print(coverage)
+    # print(head)
+    # print(move_a)
+    # print(move_b)
+    all_power = 0
+    find_max_power(1, 1, 10, 10)
 
-    find_value(0, 0, 9, 9)
+    print('#{} {}'.format(tc, all_power))
 
 #1 1200
 #2 3290
