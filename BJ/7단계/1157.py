@@ -1,22 +1,23 @@
 import sys
 word = sys.stdin.readline().rstrip().upper()
 
-word_list = list(word)
-cnt = 0
+set_word = set(word)
+cnt_list = [0]
 result = ''
 
-for i in range(len(word_list)):
-    if result == word_list[i]:
+for i in set_word:
+    if max(cnt_list) > word.count(i):
         continue
-    if cnt == word_list.count(word_list[i]):
-        result = '?'
-        break
-    elif cnt < word_list.count(word_list[i]):
-        cnt = word_list.count(word_list[i])
-        result = word_list[i]
-print(result)
 
+    else:
+    # elif max(cnt_list) <= word.count(i):
+        cnt_list.append(word.count(i))
+        result = i
 
+if cnt_list.count(max(cnt_list)) < 2:
+    print(result)
+else:
+    print('?')
 
 '''
 import sys
