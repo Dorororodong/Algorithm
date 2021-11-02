@@ -1,13 +1,13 @@
 N = int(input())
 
-cnt = -1
+cnt = -1        # 안될 때도 생각
 
-if N >= 5:
-    for i in range(N//5, -1, -1):
-        if (N - 5 * i) % 3 == 0:
-            cnt += i
-            cnt += (N - 5 * i) // 3
-            cnt += 1
+if N >= 5:                              # N = 18?
+    for i in range(N//5, -1, -1):       # 3~0
+        if (N - 5 * i) % 3 == 0:        # 5가 3봉지고, 나머지가 3의배수이여야함
+            cnt += i                    # +3, 5봉지 갯수 추가
+            cnt += (N - 5 * i) // 3     # +1, 나머지에서 3봉지의 갯수 추가
+            cnt += 1                    # 보정
             break
     print(cnt)            
 else:
