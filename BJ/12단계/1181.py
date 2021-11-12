@@ -1,19 +1,29 @@
 N = int(input())
 
-word_list = []
+word_set = set()
 
 for _ in range(N):
-    word = input()
+    word_set.add(input())
 
-    if word not in word_list:
-        word_list.append(word)
+word_list = list(word_set)
+word_list.sort()
+word_list.sort(key=lambda x : len(x))
 
-word_list.sort(key=len)
+print('\n'.join(word_list))
 
-for i in range(len(word_list)-1):
-    for j in range(i, len(word_list)):
-        if len(word_list[i]) == len(word_list[j]) and word_list[i] > word_list[j]:
-            word_list[i], word_list[j] = word_list[j], word_list[i]
+
+'''
+N = int(input())
+
+word_set = set()
+
+for _ in range(N):
+    word_set.add(input())
+
+word_list = list(word_set)
+word_list.sort()
+word_list.sort(key=lambda x : len(x))
 
 for i in word_list:
     print(i)
+'''
