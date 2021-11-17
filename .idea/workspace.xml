@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BJ/23단계/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/19단계/10866.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/19단계/10866.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Gold/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Gold/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19단계/18258.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/19단계/18258.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -29,7 +26,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PG/Level1/정수_제곱근_판별.py" />
         <option value="$PROJECT_DIR$/PG/Level1/최대공약수와_최소공배수.py" />
         <option value="$PROJECT_DIR$/PG/Level1/x만큼_간격이_있는_n개의_숫자.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/1259.py" />
@@ -80,6 +76,7 @@
         <option value="$PROJECT_DIR$/BJ/23단계/input.txt" />
         <option value="$PROJECT_DIR$/BJ/23단계/1520.py" />
         <option value="$PROJECT_DIR$/BJ/19단계/10866.py" />
+        <option value="$PROJECT_DIR$/BJ/19단계/18258.py" />
       </list>
     </option>
   </component>
@@ -134,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10866">
+  <component name="RunManager" selected="Python.18258">
     <configuration name="10866" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,27 +145,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/19단계/10866.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1181" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/12단계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/12단계/1181.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,6 +195,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="18258" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/19단계" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/19단계/18258.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="가장_먼_노드" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.18258" />
         <item itemvalue="Python.10866" />
         <item itemvalue="Python.1520 (1)" />
         <item itemvalue="Python.1520" />
         <item itemvalue="Python.가장_먼_노드" />
-        <item itemvalue="Python.1181" />
       </list>
     </recent_temporary>
   </component>
@@ -370,9 +367,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BJ/15단계/2156.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/D2/2005.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -600,10 +594,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/19단계/10866.py">
+    <entry file="file://$PROJECT_DIR$/BJ/19단계/18258.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/19단계/10866.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
