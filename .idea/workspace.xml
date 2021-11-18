@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BJ/19단계/18258.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/19단계/18258.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/8단계/1712.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/8단계/1712.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,9 +27,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PG/Level1/최대공약수와_최소공배수.py" />
-        <option value="$PROJECT_DIR$/PG/Level1/x만큼_간격이_있는_n개의_숫자.py" />
-        <option value="$PROJECT_DIR$/BJ/Bronze/1259.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/input.txt" />
         <option value="$PROJECT_DIR$/BJ/Bronze/11050.py" />
         <option value="$PROJECT_DIR$/BJ/12단계/10814.py" />
@@ -77,6 +75,9 @@
         <option value="$PROJECT_DIR$/BJ/23단계/1520.py" />
         <option value="$PROJECT_DIR$/BJ/19단계/10866.py" />
         <option value="$PROJECT_DIR$/BJ/19단계/18258.py" />
+        <option value="$PROJECT_DIR$/BJ/Bronze/1259.py" />
+        <option value="$PROJECT_DIR$/BJ/8단계/2869.py" />
+        <option value="$PROJECT_DIR$/BJ/8단계/1712.py" />
       </list>
     </option>
   </component>
@@ -91,7 +92,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,12 +108,13 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BJ" type="462c0819:PsiDirectoryNode" />
-              <item name="19단계" type="462c0819:PsiDirectoryNode" />
+              <item name="8단계" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.18258">
+  <component name="RunManager" selected="Python.1712">
     <configuration name="10866" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1520 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1259" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/23단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/23단계/1520.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/1259.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1520" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1712" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Gold" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/8단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Gold/1520.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/8단계/1712.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가장_먼_노드" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2869" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/8단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level3/가장_먼_노드.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/8단계/2869.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1712" />
+        <item itemvalue="Python.2869" />
+        <item itemvalue="Python.1259" />
         <item itemvalue="Python.18258" />
         <item itemvalue="Python.10866" />
-        <item itemvalue="Python.1520 (1)" />
-        <item itemvalue="Python.1520" />
-        <item itemvalue="Python.가장_먼_노드" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +264,7 @@
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.078802206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.078802206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -367,15 +368,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/D2/2005.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D2/1204.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/D2/1284.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/D2/1288.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -611,6 +603,19 @@
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/Bronze/1259.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/8단계/2869.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/8단계/1712.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
