@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/10163.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/2309.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/2669.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BJ/Silver/2635.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BJ/Silver/10845.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/Level1/핸드폰_번호_가리기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/21단계/10816.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/21단계/10816.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,17 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BJ/Bronze/2309.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -40,10 +29,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PG/Level2/JadenCase_문자열_만들기.py" />
-        <option value="$PROJECT_DIR$/PG/Level2/피보나치_수.py" />
-        <option value="$PROJECT_DIR$/PG/Level2/최댓값과_최솟값.py" />
-        <option value="$PROJECT_DIR$/PG/Level2/숫자의_표현.py" />
         <option value="$PROJECT_DIR$/PG/Level2/다음_큰_숫자.py" />
         <option value="$PROJECT_DIR$/SWEA/D2/1961.py" />
         <option value="$PROJECT_DIR$/SWEA/D2/1926.py" />
@@ -91,6 +76,10 @@
         <option value="$PROJECT_DIR$/BJ/Silver/2635.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/2669.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/2309.py" />
+        <option value="$PROJECT_DIR$/BJ/19단계/11866.py" />
+        <option value="$PROJECT_DIR$/BJ/21단계/10816.py" />
+        <option value="$PROJECT_DIR$/BJ/Silver/10845.py" />
+        <option value="$PROJECT_DIR$/PG/Level1/핸드폰_번호_가리기.py" />
       </list>
     </option>
   </component>
@@ -115,13 +104,7 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
-              <item name="Bronze" type="462c0819:PsiDirectoryNode" />
+              <item name="PG" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,50 +128,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2309">
-    <configuration name="10163" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/10163.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10872" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/10단계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/10단계/10872.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1920" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.핸드폰_번호_가리기">
+    <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +141,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/21단계/1920.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/21단계/10816.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10845" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Silver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/10845.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11866" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/19단계" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/19단계/11866.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2669" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="핸드폰_번호_가리기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/2669.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/핸드폰_번호_가리기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.핸드폰_번호_가리기" />
+        <item itemvalue="Python.10845" />
+        <item itemvalue="Python.10816" />
+        <item itemvalue="Python.11866" />
         <item itemvalue="Python.2309" />
-        <item itemvalue="Python.2669" />
-        <item itemvalue="Python.10163" />
-        <item itemvalue="Python.1920" />
-        <item itemvalue="Python.10872" />
       </list>
     </recent_temporary>
   </component>
@@ -277,14 +260,14 @@
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15806195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15799843" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.26599064" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.36427456" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -371,26 +354,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BJ/16단계/11047.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/16단계/11399.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/17단계/1037.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/17단계/1010.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BJ/17단계/1676.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -646,7 +609,34 @@
     <entry file="file://$PROJECT_DIR$/BJ/Bronze/2309.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/19단계/11866.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/21단계/10816.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/Silver/10845.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/Level1/핸드폰_번호_가리기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
