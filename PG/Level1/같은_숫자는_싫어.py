@@ -1,26 +1,28 @@
 '''
-array의 각 element 중 divisor로 나누어 떨어지는 값을 오름차순으로 정렬한 배열을 반환하는 함수, solution을 작성해주세요.
-divisor로 나누어 떨어지는 element가 하나도 없다면 배열에 -1을 담아 반환하세요.
+배열 arr의 각 원소는 숫자 0부터 9까지로 이루어져 있습니다.
+이때, 배열 arr에서 연속적으로 나타나는 숫자는 하나만 남기고 전부 제거하려고 합니다.
+단, 제거된 후 남은 수들을 반환할 때는 배열 arr의 원소들의 순서를 유지해야 합니다.
 
-arr은 자연수를 담은 배열입니다.
-정수 i, j에 대해 i ≠ j 이면 arr[i] ≠ arr[j] 입니다.
-divisor는 자연수입니다.
-array는 길이 1 이상인 배열입니다.
+arr = [1, 1, 3, 3, 0, 1, 1] 이면 [1, 3, 0, 1] 을 return 합니다.
+배열 arr에서 연속적으로 나타나는 숫자는 제거하고 남은 수들을 return 하는 solution 함수를 완성해 주세요.
+
+배열 arr의 크기 : 1,000,000 이하의 자연수
+배열 arr의 원소의 크기 : 0보다 크거나 같고 9보다 작거나 같은 정수
 '''
 
-def solution(arr, divisor):
+def solution(arr):
+    number = -1
     result = []
-    for i in range(len(arr)):
-        if arr[i] % divisor == 0:
-            result.append(arr[i])
+    for i in arr:
+        if number == -1:
+            number = i
+            result.append(i)
+        else:
+            if number != i:
+                number = i
+                result.append(i)
 
-    if len(result) == 0:
-        return [-1]
-    else:
-        return sorted(result)
+    return result
 
-    # def solution(arr, divisor): return sorted([n for n in arr if n%divisor == 0]) or [-1]
-
-print(solution([5, 9, 7, 10], 5))   # [5, 10]
-print(solution([2, 36, 1, 3], 1))   # [1, 2, 3, 36]
-print(solution([3,2,6], 10))        # [-1]
+print(solution([1,1,3,3,0,1,1]))        # [1,3,0,1]
+print(solution([4,4,4,3,3]))            # [4,3]
