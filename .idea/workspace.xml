@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PG/Level1/부족한_금액_계산하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/Level1/N개의_최소공배수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/Level2/올바른_괄호.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +28,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/D2/input.txt" />
-        <option value="$PROJECT_DIR$/SWEA/D3/3431.py" />
         <option value="$PROJECT_DIR$/BJ/16단계/11047.py" />
         <option value="$PROJECT_DIR$/BJ/16단계/11399.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/4406.py" />
@@ -78,14 +77,16 @@
         <option value="$PROJECT_DIR$/PG/Level1/문자열_내_마음대로_정렬하기.py" />
         <option value="$PROJECT_DIR$/PG/Level1/같은_숫자는_싫어.py" />
         <option value="$PROJECT_DIR$/PG/Level1/부족한_금액_계산하기.py" />
+        <option value="$PROJECT_DIR$/PG/Level1/N개의_최소공배수.py" />
+        <option value="$PROJECT_DIR$/PG/Level2/올바른_괄호.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="x" value="1909" />
+    <option name="y" value="-11" />
+    <option name="width" value="2324" />
+    <option name="height" value="1256" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -109,7 +110,7 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="PG" type="462c0819:PsiDirectoryNode" />
-              <item name="Level1" type="462c0819:PsiDirectoryNode" />
+              <item name="Level2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,28 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.부족한_금액_계산하기">
-    <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/21단계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/21단계/10816.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.올바른_괄호">
     <configuration name="10845" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,6 +147,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/10845.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="N개의_최소공배수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/N개의_최소공배수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="올바른_괄호" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level2/올바른_괄호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.부족한_금액_계산하기" />
+        <item itemvalue="Python.올바른_괄호" />
+        <item itemvalue="Python.N개의_최소공배수" />
         <item itemvalue="Python.문자열_내_마음대로_정렬하기" />
         <item itemvalue="Python.핸드폰_번호_가리기" />
         <item itemvalue="Python.10845" />
-        <item itemvalue="Python.10816" />
       </list>
     </recent_temporary>
   </component>
@@ -325,16 +347,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19233312" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11465721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.19858156" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.19812793" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -421,12 +443,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BJ/17단계/3036.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/17단계/5086.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BJ/17단계/9375.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -716,6 +732,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/Level1/N개의_최소공배수.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/Level2/올바른_괄호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
