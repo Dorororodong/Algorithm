@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/1550.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BJ/Bronze/2338.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +27,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PG/Level1/문자열_내림차순으로_배치하기.py" />
         <option value="$PROJECT_DIR$/PG/Level1/문자열_내_마음대로_정렬하기.py" />
         <option value="$PROJECT_DIR$/PG/Level1/같은_숫자는_싫어.py" />
         <option value="$PROJECT_DIR$/PG/Level1/부족한_금액_계산하기.py" />
@@ -78,14 +77,15 @@
         <option value="$PROJECT_DIR$/PG/Level1/정수_제곱근_판별.py" />
         <option value="$PROJECT_DIR$/PG/Level1/시저_암호.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/1550.py" />
+        <option value="$PROJECT_DIR$/BJ/Bronze/2338.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3828" />
-    <option name="y" value="-12" />
-    <option name="width" value="1944" />
-    <option name="height" value="2124" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -283,9 +283,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11465721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11434237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -379,9 +379,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/D1/2063.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/D1/2068.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -589,6 +586,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/Bronze/2338.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
