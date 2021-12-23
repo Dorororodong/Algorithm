@@ -15,7 +15,6 @@
 '''
 
 def DFS_long(x, y):
-    global cnt
     visited[x][y] = 1
 
     if y + 1 < M and floor[x][y+1] == '-':
@@ -23,7 +22,6 @@ def DFS_long(x, y):
 
 
 def DFS_hor(x, y):
-    global cnt
     visited[x][y] = 1
 
     if x + 1 < N and floor[x + 1][y] == '|':
@@ -33,10 +31,8 @@ def DFS_hor(x, y):
 import sys
 
 N, M = map(int, sys.stdin.readline().rstrip().split())      # 세로, 가로
-floor = []
 
-for _ in range(N):
-    floor.append(list(sys.stdin.readline().rstrip()))
+floor = [list(sys.stdin.readline().rstrip()) for _ in range(N)]     # 뇌정지...
 # print(floor)
 
 visited = [[0] * M for _ in range(N)]
@@ -55,3 +51,21 @@ for i in range(N):
             DFS_hor(i, j)
 
 print(cnt)
+
+'''
+n, m = map(int, input().split())
+grid = [list(input()) for _ in range(n)]
+
+cnt = n * m
+for i in range(n):
+    for j in range(1, m):
+        if grid[i][j-1] == grid[i][j] == '-':
+            cnt -= 1
+
+for i in range(1, n):
+    for j in range(m):
+        if grid[i-1][j] == grid[i][j] == '|':
+            cnt -= 1
+
+print(cnt)
+'''
