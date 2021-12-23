@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BJ/11단계/2231.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/11단계/2231.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/Level1/정수_제곱근_판별.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BJ/11단계/2231.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -52,7 +43,6 @@
         <option value="$PROJECT_DIR$/SWEA/D3/3260.py" />
         <option value="$PROJECT_DIR$/PG/Level1/나누어_떨어지는_숫자_배열.py" />
         <option value="$PROJECT_DIR$/PG/Level1/최대공약수와_최소공배수.py" />
-        <option value="$PROJECT_DIR$/PG/Level1/정수_제곱근_판별.py" />
         <option value="$PROJECT_DIR$/PG/Level1/시저_암호.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/1550.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/2338.py" />
@@ -87,6 +77,7 @@
         <option value="$PROJECT_DIR$/BJ/Silver/4963.py" />
         <option value="$PROJECT_DIR$/BJ/11단계/2798.py" />
         <option value="$PROJECT_DIR$/BJ/11단계/2231.py" />
+        <option value="$PROJECT_DIR$/PG/Level1/정수_제곱근_판별.py" />
       </list>
     </option>
   </component>
@@ -115,13 +106,13 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
+              <item name="PG" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
-              <item name="11단계" type="462c0819:PsiDirectoryNode" />
+              <item name="PG" type="462c0819:PsiDirectoryNode" />
+              <item name="Level1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2231">
+  <component name="RunManager" selected="Python.정수_제곱근_판별">
     <configuration name="1388" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5596" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="정수_제곱근_판별" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/5596.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/정수_제곱근_판별.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.정수_제곱근_판별" />
         <item itemvalue="Python.2231" />
         <item itemvalue="Python.2798" />
         <item itemvalue="Python.4963" />
         <item itemvalue="Python.1388" />
-        <item itemvalue="Python.5596" />
       </list>
     </recent_temporary>
   </component>
@@ -276,16 +267,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10953507" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12962963" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.2176287" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.2176287" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -353,9 +343,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PG/Level1/문자열_다루기_기본.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PG/Level1/문자열_내_p와_y의_개수.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -418,13 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PG/Level1/K번째수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -607,8 +587,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BJ/11단계/2231.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="722">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/Level1/K번째수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/Level1/정수_제곱근_판별.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
