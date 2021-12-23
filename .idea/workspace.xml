@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BJ/Silver/4963.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/11단계/2798.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/11단계/2798.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Silver/1388.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Silver/1388.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/11단계/2231.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/11단계/2231.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BJ/11단계/2798.py">
+        <entry file="file://$PROJECT_DIR$/BJ/11단계/2231.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="495">
+              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -39,7 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/D3/12221.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/4466.py" />
         <option value="$PROJECT_DIR$/SWEA/CB/input.txt" />
         <option value="$PROJECT_DIR$/SWEA/CB/광이삼의_암벽_등반.py" />
@@ -90,6 +86,7 @@
         <option value="$PROJECT_DIR$/BJ/Silver/1388.py" />
         <option value="$PROJECT_DIR$/BJ/Silver/4963.py" />
         <option value="$PROJECT_DIR$/BJ/11단계/2798.py" />
+        <option value="$PROJECT_DIR$/BJ/11단계/2231.py" />
       </list>
     </option>
   </component>
@@ -148,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2798">
+  <component name="RunManager" selected="Python.2231">
     <configuration name="1388" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2752" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2231" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/11단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\dlehd\Desktop\Github\Algorithm\BJ\Bronze\2753.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/11단계/2231.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2231" />
         <item itemvalue="Python.2798" />
         <item itemvalue="Python.4963" />
         <item itemvalue="Python.1388" />
         <item itemvalue="Python.5596" />
-        <item itemvalue="Python.2752" />
       </list>
     </recent_temporary>
   </component>
@@ -281,14 +278,14 @@
     <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.10953507" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10953507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2176287" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.2176287" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -297,7 +294,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Debug" order="3" weight="0.3781312" />
+      <window_info anchor="right" id="Debug" order="3" weight="0.38131213" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -325,17 +322,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="M" />
-        <watch expression="N" />
-        <watch expression="i" />
-        <watch expression="j" />
-        <watch expression="k" />
-        <watch expression="numbers" />
-        <watch expression="result" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -367,15 +353,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PG/Level1/수박수박수박수박수박수.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PG/Level1/서울에서_김서방_찾기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PG/Level1/문자열_내림차순으로_배치하기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PG/Level1/문자열_다루기_기본.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -611,6 +588,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="870" selection-start-line="870" selection-end-line="870" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/11단계/2231.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
