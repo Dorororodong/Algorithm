@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/5338.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BJ/Bronze/5339.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BJ/Bronze/5338.py">
+        <entry file="file://$PROJECT_DIR$/BJ/Bronze/5339.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -36,7 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/D3/5948.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/3260.py" />
         <option value="$PROJECT_DIR$/PG/Level1/나누어_떨어지는_숫자_배열.py" />
         <option value="$PROJECT_DIR$/PG/Level1/최대공약수와_최소공배수.py" />
@@ -87,6 +86,7 @@
         <option value="$PROJECT_DIR$/BJ/Bronze/3046.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/5337.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/5338.py" />
+        <option value="$PROJECT_DIR$/BJ/Bronze/5339.py" />
       </list>
     </option>
   </component>
@@ -145,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5338">
+  <component name="RunManager" selected="Python.5339">
     <configuration name="14889" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="소수_ 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5339" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/소수_ 찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/5339.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5339" />
         <item itemvalue="Python.5338" />
         <item itemvalue="Python.5337" />
         <item itemvalue="Python.3003" />
         <item itemvalue="Python.14889" />
-        <item itemvalue="Python.소수_ 찾기" />
       </list>
     </recent_temporary>
   </component>
@@ -353,13 +353,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PG/Level1/음양_더하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PG/Level1/내적.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -640,7 +633,14 @@
     <entry file="file://$PROJECT_DIR$/BJ/Bronze/5338.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
+          <caret column="74" lean-forward="true" selection-start-column="74" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/Bronze/5339.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
