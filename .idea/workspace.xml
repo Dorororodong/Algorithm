@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PG/Level1/로또의_최고_순위와_최저_순위.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/8단계/10250.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/8단계/10250.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Bronze/10163.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Bronze/10163.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/8단계/2775.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/8단계/2775.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BJ/8단계/10250.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -38,9 +28,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PG/Level2/JadenCase_문자열_만들기.py" />
-        <option value="$PROJECT_DIR$/PG/Level2/N개의_최소공배수.py" />
-        <option value="$PROJECT_DIR$/PG/Level2/행렬의_곱셈.py" />
         <option value="$PROJECT_DIR$/PG/Level2/최솟값_만들기.py" />
         <option value="$PROJECT_DIR$/PG/Level2/최댓값과_최솟값.py" />
         <option value="$PROJECT_DIR$/PG/Level1/없는_숫자_더하기.py" />
@@ -89,6 +76,9 @@
         <option value="$PROJECT_DIR$/BJ/24단계/1012.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/10163.py" />
         <option value="$PROJECT_DIR$/BJ/8단계/10250.py" />
+        <option value="$PROJECT_DIR$/BJ/21단계/10816.py" />
+        <option value="$PROJECT_DIR$/BJ/8단계/2775.py" />
+        <option value="$PROJECT_DIR$/PG/Level1/로또의_최고_순위와_최저_순위.py" />
       </list>
     </option>
   </component>
@@ -106,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,19 +107,18 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
+              <item name="PG" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
-              <item name="8단계" type="462c0819:PsiDirectoryNode" />
+              <item name="PG" type="462c0819:PsiDirectoryNode" />
+              <item name="Level1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,28 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10250">
-    <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/24단계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/24단계/1012.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.로또의_최고_순위와_최저_순위">
     <configuration name="10163" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1463" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/15단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/21단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/15단계/1463.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/21단계/10816.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2729" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2775" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,11 +209,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Silver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/8단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/2729.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/8단계/2775.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="로또의_최고_순위와_최저_순위" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/로또의_최고_순위와_최저_순위.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.로또의_최고_순위와_최저_순위" />
+        <item itemvalue="Python.2775" />
+        <item itemvalue="Python.10816" />
         <item itemvalue="Python.10250" />
         <item itemvalue="Python.10163" />
-        <item itemvalue="Python.1012" />
-        <item itemvalue="Python.1463" />
-        <item itemvalue="Python.2729" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +268,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2575" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11859732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,7 +276,7 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.2176287" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.2176287" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -355,18 +344,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BJ/24단계/2667.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/24단계/7562.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/24단계/7569.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/Bronze/1259.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BJ/Silver/11866.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -656,6 +633,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/21단계/10816.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/21단계/2805.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/8단계/2775.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PG/Level1/로또의_최고_순위와_최저_순위.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2080">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
         </state>
       </provider>
     </entry>
