@@ -19,11 +19,10 @@ def binary_search_count(data, find):
 
 import sys
 N = int(sys.stdin.readline().rstrip())
-have = list(map(int, sys.stdin.readline().rstrip().split()))
-have_set = sorted(list(set(have)))
+have = sorted(list(map(int, sys.stdin.readline().rstrip().split())))
 
 M = int(sys.stdin.readline().rstrip())
 find = list(map(int, sys.stdin.readline().rstrip().split()))
 
 for i in find:
-    binary_search_count(have_set, i)
+    binary_search_count(have, i)
