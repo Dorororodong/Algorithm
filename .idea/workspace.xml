@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BJ/Bronze/1259.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Bronze/1259.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Bronze/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Bronze/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TICT/Greedy/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TICT/Greedy/큰_수의_법칙.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BJ/14단계/14889.py" />
-        <option value="$PROJECT_DIR$/BJ/Bronze/2845.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/3003.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/3046.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/5337.py" />
@@ -80,6 +79,8 @@
         <option value="$PROJECT_DIR$/SWEA/D5/1256.py" />
         <option value="$PROJECT_DIR$/BJ/Bronze/input.txt" />
         <option value="$PROJECT_DIR$/BJ/Bronze/1259.py" />
+        <option value="$PROJECT_DIR$/TICT/Greedy/큰_수의_법칙.py" />
+        <option value="$PROJECT_DIR$/TICT/Greedy/input.txt" />
       </list>
     </option>
   </component>
@@ -107,13 +108,13 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
+              <item name="TICT" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BJ" type="462c0819:PsiDirectoryNode" />
-              <item name="Bronze" type="462c0819:PsiDirectoryNode" />
+              <item name="TICT" type="462c0819:PsiDirectoryNode" />
+              <item name="Greedy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1259">
+  <component name="RunManager" selected="Python.큰_수의_법칙">
     <configuration name="스킬트리" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="소수_만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="큰_수의_법칙" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,32 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TICT/Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/소수_만들기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="n^2_배열_자르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level2/n^2_배열_자르기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TICT/Greedy/큰_수의_법칙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.큰_수의_법칙" />
         <item itemvalue="Python.1259" />
         <item itemvalue="Python.1256" />
         <item itemvalue="Python.스킬트리" />
         <item itemvalue="Python.소수_ 찾기" />
-        <item itemvalue="Python.n^2_배열_자르기" />
       </list>
     </recent_temporary>
   </component>
@@ -385,15 +365,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PG/Level1/없는_숫자_더하기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PG/Level1/내적.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PG/Level1/음양_더하기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PG/Level1/완주하지_못한_선수.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -644,6 +615,19 @@
           <caret selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/11단계/1436.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TICT/Greedy/큰_수의_법칙.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TICT/Greedy/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
