@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TICT/Greedy/1이_될_때까지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TICT/Greedy/문자열_뒤집기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA/D3/1215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA/D3/1217.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TICT/Greedy/왕실의_나이트.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TICT/Greedy/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TICT/Greedy/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +31,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BJ/Bronze/5338.py" />
-        <option value="$PROJECT_DIR$/BJ/Bronze/5339.py" />
-        <option value="$PROJECT_DIR$/BJ/Bronze/5554.py" />
         <option value="$PROJECT_DIR$/BJ/Silver/4150.py" />
         <option value="$PROJECT_DIR$/BJ/Silver/2729.py" />
         <option value="$PROJECT_DIR$/BJ/Silver/1699.py" />
@@ -82,6 +79,9 @@
         <option value="$PROJECT_DIR$/TICT/Greedy/1이_될_때까지.py" />
         <option value="$PROJECT_DIR$/TICT/Greedy/문자열_뒤집기.py" />
         <option value="$PROJECT_DIR$/TICT/Greedy/input.txt" />
+        <option value="$PROJECT_DIR$/TICT/Greedy/왕실의_나이트.py" />
+        <option value="$PROJECT_DIR$/SWEA/D3/1215.py" />
+        <option value="$PROJECT_DIR$/SWEA/D3/1217.py" />
       </list>
     </option>
   </component>
@@ -99,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,18 +109,13 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="TICT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="TICT" type="462c0819:PsiDirectoryNode" />
-              <item name="Greedy" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,8 +134,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.문자열_뒤집기">
-    <configuration name="1256" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1217">
+    <configuration name="1217" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/D3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D5/1256.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/D3/1217.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1217" />
         <item itemvalue="Python.문자열_뒤집기" />
         <item itemvalue="Python.1이_될_때까지" />
         <item itemvalue="Python.큰_수의_법칙" />
         <item itemvalue="Python.1259" />
-        <item itemvalue="Python.1256" />
       </list>
     </recent_temporary>
   </component>
@@ -293,14 +287,14 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15730338" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15730338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.15319149" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.38723403" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -387,17 +381,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BJ/15단계/1463.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PG/코딩테스트_고득점_Kit/탐욕법(Greedy)/1.py" />
-    <entry file="file://$PROJECT_DIR$/PG/코딩테스트_고득점_Kit/탐욕법(Greedy)/2.py" />
-    <entry file="file://$PROJECT_DIR$/PG/코딩테스트_고득점_Kit/탐욕법(Greedy)/3.py" />
-    <entry file="file://$PROJECT_DIR$/PG/코딩테스트_고득점_Kit/탐욕법(Greedy)/4.py" />
     <entry file="file://$PROJECT_DIR$/PG/코딩테스트_고득점_Kit/탐욕법(Greedy)/5.py" />
     <entry file="file://$PROJECT_DIR$/BJ/11단계/7568.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -642,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TICT/Greedy/숫자_카드_게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" selection-start-line="11" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TICT/Greedy/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -660,6 +636,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TICT/Greedy/숫자_카드_게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TICT/Greedy/왕실의_나이트.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3/3142.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3/1213.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3/1215.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/D3/1217.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
