@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BJ/8단계/2869.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/8단계/2869.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/8단계/1193.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/8단계/1193.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BJ/Silver/2564.py" />
         <option value="$PROJECT_DIR$/BJ/18단계/17298.py" />
         <option value="$PROJECT_DIR$/BJ/24단계/1697.py" />
         <option value="$PROJECT_DIR$/PG/Level1/완주하지_못한_선수.py" />
@@ -79,6 +78,7 @@
         <option value="$PROJECT_DIR$/BJ/7단계/2941.py" />
         <option value="$PROJECT_DIR$/BJ/8단계/2775.py" />
         <option value="$PROJECT_DIR$/BJ/8단계/2869.py" />
+        <option value="$PROJECT_DIR$/BJ/8단계/1193.py" />
       </list>
     </option>
   </component>
@@ -103,6 +103,11 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="BJ" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -126,8 +131,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2869">
-    <configuration name="1065" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1193">
+    <configuration name="1193" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/6단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/8단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/6단계/1065.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/8단계/1193.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1193" />
         <item itemvalue="Python.2869" />
         <item itemvalue="Python.2775" />
         <item itemvalue="Python.2941" />
         <item itemvalue="Python.4673" />
-        <item itemvalue="Python.1065" />
       </list>
     </recent_temporary>
   </component>
@@ -364,9 +369,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PG/Level2/다음_큰_숫자.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PG/Level2/올바른_괄호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-198" />
@@ -672,6 +674,13 @@
           <folding>
             <element signature="e#292#308#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/8단계/1193.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
