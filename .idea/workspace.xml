@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BJ/8단계/1193.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/8단계/1193.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/9단계/2581.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/9단계/2581.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BJ/18단계/17298.py" />
         <option value="$PROJECT_DIR$/BJ/24단계/1697.py" />
         <option value="$PROJECT_DIR$/PG/Level1/완주하지_못한_선수.py" />
         <option value="$PROJECT_DIR$/PG/Level1/모의고사.py" />
@@ -79,6 +78,7 @@
         <option value="$PROJECT_DIR$/BJ/8단계/2775.py" />
         <option value="$PROJECT_DIR$/BJ/8단계/2869.py" />
         <option value="$PROJECT_DIR$/BJ/8단계/1193.py" />
+        <option value="$PROJECT_DIR$/BJ/9단계/2581.py" />
       </list>
     </option>
   </component>
@@ -108,6 +108,12 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="BJ" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="BJ" type="462c0819:PsiDirectoryNode" />
+              <item name="9단계" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -131,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1193">
+  <component name="RunManager" selected="Python.2581">
     <configuration name="1193" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,6 +151,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/8단계/1193.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2581" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/9단계" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/9단계/2581.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,34 +243,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4673" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/6단계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/6단계/4673.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2581" />
         <item itemvalue="Python.1193" />
         <item itemvalue="Python.2869" />
         <item itemvalue="Python.2775" />
         <item itemvalue="Python.2941" />
-        <item itemvalue="Python.4673" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +269,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11434237" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.11434237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -328,14 +334,11 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="T" />
-        <watch expression="floor" />
-        <watch expression="floor[0]" />
-        <watch expression="floor.__len__()" />
+        <watch expression="M" />
+        <watch expression="N" />
         <watch expression="i" />
-        <watch expression="j" />
-        <watch expression="up_floor" />
-        <watch expression="__py_debug_temp_var_72593724[6]" />
+        <watch expression="min_prime_num" />
+        <watch expression="prime_num" />
       </configuration>
     </watches-manager>
   </component>
@@ -369,11 +372,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PG/Level2/올바른_괄호.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PG/Level2/이진_변환_반복하기.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -681,6 +679,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/9단계/2581.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#377#387#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
