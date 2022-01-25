@@ -1,30 +1,18 @@
 import sys
-N = int(sys.stdin.readline().rstrip())                              # 홀수
-numbers = [int(sys.stdin.readline().rstrip()) for _ in range(N)]
-numbers.sort()
+from collections import Counter
 
-A = round(sum(numbers) / len(numbers))
-B = numbers[len(numbers)//2]
+N = int(sys.stdin.readline().rstrip())
 
-often = []
-often_num = 0
-for i in set(numbers):
-    if numbers.count(i) > often_num:
-        often_num = numbers.count(i)
-        often.clear()
-        often.append(i)
+numbers = sorted([int(sys.stdin.readline().rstrip()) for _ in range(N)])
 
-    elif numbers.count(i) == often_num:
-        often.append(i)
-
-if len(often) == 1:
-    C = often[0]
+print(round(sum(numbers) / len(numbers)))
+print(numbers[N//2])
+mode = Counter(numbers).most_common()
+if N != 1:
+    if mode[0][1] == mode[1][1]:
+        print(max(mode[0][0], mode[1][0]))
+    else:
+        print(mode[0][0])
 else:
-    C = sorted(often)[1]
-
-D = max(numbers) - min(numbers)
-
-print(A)
-print(B)
-print(C)
-print(D)
+    print(numbers[0])
+print(max(numbers) - min(numbers))
