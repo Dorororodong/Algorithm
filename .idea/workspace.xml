@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220203 commit SQL">
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220203 commit">
+      <change afterPath="$PROJECT_DIR$/BJ/Silver/14254.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/9단계/9020.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/9단계/9020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Silver/11723.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +141,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -152,7 +151,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9020">
+  <component name="RunManager" selected="Python.14254">
     <configuration name="11723" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11866" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14254" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/19단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Silver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/19단계/11866.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/14254.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14254" />
         <item itemvalue="Python.9020" />
         <item itemvalue="Python.1764" />
         <item itemvalue="Python.5430" />
         <item itemvalue="Python.11723" />
-        <item itemvalue="Python.11866" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +328,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643883296181</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="🤪220203 commit">
+      <created>1643887070365</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643887070365</updated>
+    </task>
+    <task id="LOCAL-00009" summary="220203 commit">
+      <created>1643887239026</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643887239026</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -406,7 +419,9 @@
     <MESSAGE value="220202 commit SQL" />
     <MESSAGE value="220202 commit" />
     <MESSAGE value="220203 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="220203 commit SQL" />
+    <MESSAGE value="220203 commit" />
+    <MESSAGE value="220203 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220203 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -430,6 +445,11 @@
           <url>file://$PROJECT_DIR$/PG/Level3/정수_삼각형.py</url>
           <line>8</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BJ/Silver/14254.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
