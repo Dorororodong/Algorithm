@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220207 commit">
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220208 commit SQL">
+      <change afterPath="$PROJECT_DIR$/BJ/Bronze/14696.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -397,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644232674073</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="🤪220208 commit SQL">
+      <created>1644320007539</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1644320007539</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -484,7 +492,8 @@
     <MESSAGE value="220206 commit" />
     <MESSAGE value="220207 commit SQL" />
     <MESSAGE value="220207 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220207 commit" />
+    <MESSAGE value="220208 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="220208 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
