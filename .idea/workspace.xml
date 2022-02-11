@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220211 commit SQL">
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/13458.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220211 commit">
+      <change afterPath="$PROJECT_DIR$/BJ/Silver/16395.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BJ/Silver/2407.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +152,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13458">
+  <component name="RunManager" selected="Python.2407">
     <configuration name="11726" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2559" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2407" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,7 +228,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/2559.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/2407.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2407" />
         <item itemvalue="Python.13458" />
         <item itemvalue="Python.9095" />
         <item itemvalue="Python.11727" />
         <item itemvalue="Python.11726" />
-        <item itemvalue="Python.2559" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644574525517</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="220211 commit">
+      <created>1644587832475</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1644587832475</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -562,7 +570,8 @@
     <MESSAGE value="220210 commit SQL" />
     <MESSAGE value="220210 commit" />
     <MESSAGE value="220211 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="220211 commit SQL" />
+    <MESSAGE value="220211 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220211 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
