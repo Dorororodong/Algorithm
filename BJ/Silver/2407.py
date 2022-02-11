@@ -1,3 +1,4 @@
+'''dp & 조합론으로 다시 풀이 필요...'''
 import sys, math
 n, m = map(int, sys.stdin.readline().rstrip().split())
 
