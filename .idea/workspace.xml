@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220213 commit SQL">
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220213 commit">
+      <change afterPath="$PROJECT_DIR$/SQL/Weather_Observation_Station_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/20단계/2740.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/20단계/2740.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -510,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644730935405</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="🤪220213 commit">
+      <created>1644738331710</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1644738331710</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -580,7 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220202 commit SQL" />
     <MESSAGE value="220202 commit" />
     <MESSAGE value="220203 commit SQL" />
     <MESSAGE value="220203 commit" />
@@ -605,7 +611,8 @@
     <MESSAGE value="220212 commit SQL" />
     <MESSAGE value="220212 commit" />
     <MESSAGE value="220213 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="220213 commit SQL" />
+    <MESSAGE value="220213 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220213 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
