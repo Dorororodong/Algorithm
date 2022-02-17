@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220217 commit SQL">
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220217 commit">
+      <change afterPath="$PROJECT_DIR$/BJ/Bronze/11557.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/11단계/1436.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/11단계/1436.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/15단계/1149.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/15단계/1149.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/18단계/17298.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/18단계/17298.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/21단계/10816.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/21단계/10816.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/22단계/1655.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/22단계/1655.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Gold/12851.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Gold/12851.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +151,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1149">
+  <component name="RunManager" selected="Python.11557">
     <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,6 +194,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="11557" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/11557.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1655" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,27 +228,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/22단계/1655.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17298" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/18단계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/18단계/17298.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11557" />
         <item itemvalue="Python.1149" />
         <item itemvalue="Python.1655" />
         <item itemvalue="Python.5430" />
         <item itemvalue="Python.10816" />
-        <item itemvalue="Python.17298" />
       </list>
     </recent_temporary>
   </component>
@@ -283,13 +278,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00009" summary="220203 commit">
-      <created>1643887239026</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1643887239026</updated>
     </task>
     <task id="LOCAL-00010" summary="220204 commit SQL">
       <created>1643979318887</created>
@@ -627,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645093997581</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="220217 commit">
+      <created>1645104816392</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1645104816392</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -697,7 +692,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220206 commit" />
     <MESSAGE value="220207 commit SQL" />
     <MESSAGE value="220207 commit" />
     <MESSAGE value="220208 commit SQL" />
@@ -722,7 +716,8 @@
     <MESSAGE value="220216 commit SQL" />
     <MESSAGE value="220216 commit" />
     <MESSAGE value="220217 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="220217 commit SQL" />
+    <MESSAGE value="220217 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220217 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
