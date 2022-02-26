@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220225 commit">
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220226 commit SQL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19단계/11866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19단계/1966.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/19단계/1966.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/8단계/1011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Bronze/2480.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Bronze/2525.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +155,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11051">
+  <component name="RunManager" selected="Python.1966">
     <configuration name="11051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1302" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11866" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/1302.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/11866.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17086" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1966" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Silver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/19단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/17086.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/19단계/1966.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1966" />
+        <item itemvalue="Python.11866" />
         <item itemvalue="Python.11051" />
         <item itemvalue="Python.11403" />
         <item itemvalue="Python.1707" />
-        <item itemvalue="Python.1302" />
-        <item itemvalue="Python.17086" />
       </list>
     </recent_temporary>
   </component>
@@ -277,13 +282,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00035" summary="🤪220214 commit SQL">
-      <created>1644838525908</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1644838525908</updated>
     </task>
     <task id="LOCAL-00036" summary="🤪220214 commit SQL">
       <created>1644838734389</created>
@@ -621,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645801027998</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="🤪220226 commit SQL">
+      <created>1645860382060</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1645860382060</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -692,7 +697,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="220215 commit" />
-    <MESSAGE value="220215 commit" />
     <MESSAGE value="220216 commit SQL" />
     <MESSAGE value="220216 commit" />
     <MESSAGE value="220217 commit SQL" />
@@ -716,7 +720,8 @@
     <MESSAGE value="220225 commit SQL" />
     <MESSAGE value="220225 commit" />
     <MESSAGE value="220225 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220225 commit" />
+    <MESSAGE value="220226 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="220226 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -750,13 +755,6 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="adj" language="Python" />
-        <watch expression="result" language="Python" />
-        <watch expression="visited" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
