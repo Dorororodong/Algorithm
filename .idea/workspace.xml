@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220226 commit">
-      <change afterPath="$PROJECT_DIR$/SQL/Japan_Population.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220227 commit SQL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/12단계/18870.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/12단계/18870.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/15단계/2579.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/15단계/2579.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,8 +152,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1966">
-    <configuration name="11051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.18870">
+    <configuration name="11053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,32 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/17단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/15단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/17단계/11051.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11403" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Silver" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/11403.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/15단계/11053.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1707" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18870" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/24단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/12단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/24단계/1707.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/12단계/18870.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,13 +237,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2579" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/15단계" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/15단계/2579.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.18870" />
+        <item itemvalue="Python.11053" />
+        <item itemvalue="Python.2579" />
         <item itemvalue="Python.1966" />
         <item itemvalue="Python.11866" />
-        <item itemvalue="Python.11051" />
-        <item itemvalue="Python.11403" />
-        <item itemvalue="Python.1707" />
       </list>
     </recent_temporary>
   </component>
@@ -278,13 +279,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00037" summary="220214 commit">
-      <created>1644839670623</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1644839670623</updated>
     </task>
     <task id="LOCAL-00038" summary="🤪220214 commit">
       <created>1644840471025</created>
@@ -622,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645864462061</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="220227 commit SQL">
+      <created>1645966674966</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1645966674966</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -692,7 +693,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220216 commit SQL" />
     <MESSAGE value="220216 commit" />
     <MESSAGE value="220217 commit SQL" />
     <MESSAGE value="220217 commit" />
@@ -717,7 +717,8 @@
     <MESSAGE value="220225 commit" />
     <MESSAGE value="220226 commit SQL" />
     <MESSAGE value="220226 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220226 commit" />
+    <MESSAGE value="220227 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="220227 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
