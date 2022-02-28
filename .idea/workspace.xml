@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220227 commit">
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220228 commit SQL">
+      <change afterPath="$PROJECT_DIR$/BJ/Silver/1620.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +151,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.18870">
+  <component name="RunManager" selected="Python.1620">
     <configuration name="11053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11866" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1620" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/11866.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/1620.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1966" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1931" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/19단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/16단계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/19단계/1966.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/16단계/1931.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1620" />
+        <item itemvalue="Python.1931" />
         <item itemvalue="Python.18870" />
         <item itemvalue="Python.11053" />
         <item itemvalue="Python.2579" />
-        <item itemvalue="Python.1966" />
-        <item itemvalue="Python.11866" />
       </list>
     </recent_temporary>
   </component>
@@ -277,13 +278,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00039" summary="220214 commit">
-      <created>1644840647945</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1644840647945</updated>
     </task>
     <task id="LOCAL-00040" summary="220214 commit">
       <created>1644840993085</created>
@@ -621,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645970036088</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="220228 commit SQL">
+      <created>1645998159666</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1645998159666</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -691,7 +692,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220217 commit SQL" />
     <MESSAGE value="220217 commit" />
     <MESSAGE value="220218 commit SQL" />
     <MESSAGE value="220218 commit" />
@@ -716,7 +716,8 @@
     <MESSAGE value="220226 commit" />
     <MESSAGE value="220227 commit SQL" />
     <MESSAGE value="220227 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220227 commit" />
+    <MESSAGE value="220228 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="220228 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
