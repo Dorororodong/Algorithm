@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220312 commit">
-      <change afterPath="$PROJECT_DIR$/SQL/African_Cities.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220313 commit SQL">
+      <change afterPath="$PROJECT_DIR$/BJ/Silver/1182.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,8 +151,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.소수_ 찾기">
-    <configuration name="17298" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1182">
+    <configuration name="1182" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/18단계" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Silver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/18단계/17298.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/1182.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1182" />
         <item itemvalue="Python.소수_ 찾기" />
         <item itemvalue="Python.7567" />
         <item itemvalue="Python.9506" />
         <item itemvalue="Python.1789" />
-        <item itemvalue="Python.17298" />
       </list>
     </recent_temporary>
   </component>
@@ -278,13 +278,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00074" summary="🤪💀220221 commit">
-      <created>1645447030019</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1645447030019</updated>
     </task>
     <task id="LOCAL-00075" summary="🤪💀220222 commit SQL">
       <created>1645529985825</created>
@@ -622,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647087367625</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="220313 commit SQL">
+      <created>1647170412243</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1647170412243</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -692,7 +692,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220301 commit SQL" />
     <MESSAGE value="220301 commit" />
     <MESSAGE value="220302 commit SQL" />
     <MESSAGE value="220302 commit" />
@@ -717,7 +716,8 @@
     <MESSAGE value="220311 commit" />
     <MESSAGE value="220312 commit SQL" />
     <MESSAGE value="220312 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220312 commit" />
+    <MESSAGE value="220313 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="220313 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -751,6 +751,15 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="N" />
+        <watch expression="S" />
+        <watch expression="cnt" />
+        <watch expression="nums" />
+        <watch expression="visited" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
