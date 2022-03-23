@@ -1,0 +1,6 @@
+'''
+Select ANIMAL_ID, NAME
+From ANIMAL_INS
+Where INTAKE_CONDITION = 'Sick'
+Order By ANIMAL_ID;
+'''
