@@ -4,9 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220326 commit SQL">
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220326 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/Silver/1312.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/Silver/1312.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23단계/1520.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/22단계/1520.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/4단계/10951.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/4단계/10952.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/4단계/1110.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/5단계/10818.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/5단계/1546.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/5단계/2562.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/5단계/2577.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/5단계/3052.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/5단계/4344.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/5단계/8958.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/6단계/1065.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/6단계/15596.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/6단계/4673.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/10809.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/1152.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/1157.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/11654.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/11720.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/1316.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/2675.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/2908.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/2941.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/7단계/5622.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +177,11 @@
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.1312">
     <configuration name="1312" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
@@ -288,13 +316,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00120" summary="220312 commit">
-      <created>1647083615596</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1647083615596</updated>
     </task>
     <task id="LOCAL-00121" summary="220312 commit">
       <created>1647086833674</created>
@@ -632,7 +653,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648220313878</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="🤪220326 commit">
+      <created>1648301193508</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1648301193508</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -702,7 +730,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220317 commit SQL" />
     <MESSAGE value="220317 commit" />
     <MESSAGE value="220318 commit SQL" />
     <MESSAGE value="220318 commit" />
@@ -727,7 +754,8 @@
     <MESSAGE value="220325 commit" />
     <MESSAGE value="220325 commit" />
     <MESSAGE value="220325 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220325 commit" />
+    <MESSAGE value="220326 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220326 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
