@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220328 commit SQL">
-      <change afterPath="$PROJECT_DIR$/BJ/Silver/1189.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220328 commit">
+      <change afterPath="$PROJECT_DIR$/PG/SQL/Lv.2/루시와_엘라_찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,13 +294,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00127" summary="🤪220315 commit SQL">
-      <created>1647347628235</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1647347628235</updated>
     </task>
     <task id="LOCAL-00128" summary="🤪220315 commit">
       <created>1647350205433</created>
@@ -638,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648462597123</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="220328 commit">
+      <created>1648468274228</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1648468274228</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -708,7 +708,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220319 commit SQL" />
     <MESSAGE value="220319 commit" />
     <MESSAGE value="220319 commit" />
     <MESSAGE value="220319 commit" />
@@ -733,7 +732,8 @@
     <MESSAGE value="220327 commit SQL" />
     <MESSAGE value="220327 commit" />
     <MESSAGE value="220328 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="220328 commit SQL" />
+    <MESSAGE value="220328 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220328 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -757,11 +757,6 @@
           <url>file://$PROJECT_DIR$/PG/Level3/정수_삼각형.py</url>
           <line>8</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BJ/Silver/1189.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
