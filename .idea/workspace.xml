@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220411 commit SQL">
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220411 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/10844.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/14_동적 계획법 1/10844.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +139,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSAFY_220412" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -267,11 +266,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.10844" />
+      <item itemvalue="Python.14193" />
       <item itemvalue="Python.1912" />
       <item itemvalue="Python.2156" />
       <item itemvalue="Python.2579" />
-      <item itemvalue="Python.14193" />
-      <item itemvalue="Python.10844" />
     </list>
     <recent_temporary>
       <list>
@@ -294,13 +293,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00159" summary="220324 commit">
-      <created>1648131466796</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1648131466796</updated>
     </task>
     <task id="LOCAL-00160" summary="🤪220325 commit">
       <created>1648141876386</created>
@@ -638,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649675619747</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="🤪220411 commit">
+      <created>1649678344304</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1649678344304</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -708,7 +707,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220330 commit SQL" />
     <MESSAGE value="220330 commit" />
     <MESSAGE value="220331 commit SQL" />
     <MESSAGE value="220331 commit" />
@@ -733,7 +731,8 @@
     <MESSAGE value="220410 commit SQL" />
     <MESSAGE value="220410 commit" />
     <MESSAGE value="220411 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="220411 commit SQL" />
+    <MESSAGE value="220411 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220411 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
