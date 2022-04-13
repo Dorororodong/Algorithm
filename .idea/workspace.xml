@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220412 commit SQL">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/11053.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/14_동적 계획법 1/11053.py" afterDir="false" />
-    </list>
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220412 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,13 +291,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00161" summary="220325 commit SQL">
-      <created>1648142343602</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1648142343602</updated>
     </task>
     <task id="LOCAL-00162" summary="220325 commit">
       <created>1648210657057</created>
@@ -638,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649765956813</updated>
     </task>
-    <option name="localTasksCounter" value="210" />
+    <task id="LOCAL-00210" summary="🤪220412 commit">
+      <created>1649770971176</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1649770971176</updated>
+    </task>
+    <option name="localTasksCounter" value="211" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -708,7 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220331 commit SQL" />
     <MESSAGE value="220331 commit" />
     <MESSAGE value="220401 commit SQL" />
     <MESSAGE value="220401 commit" />
@@ -733,7 +729,8 @@
     <MESSAGE value="220411 commit SQL" />
     <MESSAGE value="220411 commit" />
     <MESSAGE value="220412 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="220412 commit SQL" />
+    <MESSAGE value="220412 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220412 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
