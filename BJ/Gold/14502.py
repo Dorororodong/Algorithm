@@ -25,9 +25,9 @@ def bfs():
                     q.append((nx, ny))
 
     res = 0
-    for j in range(N):
-        for k in range(M):
-            if copy_lab[j][k] == 0:
+    for i in range(N):
+        for j in range(M):
+            if copy_lab[i][j] == 0:
                 res += 1
 
     if max_res < res:
