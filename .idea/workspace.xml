@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220416 commit">
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/11718.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,20 +293,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00172" summary="220327 commit SQL">
-      <created>1648312029397</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1648312029397</updated>
-    </task>
-    <task id="LOCAL-00173" summary="220327 commit">
-      <created>1648386177950</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1648386177950</updated>
     </task>
     <task id="LOCAL-00174" summary="220327 commit">
       <created>1648389670362</created>
@@ -638,7 +623,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650114090404</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="220416 commit">
+      <created>1650115481963</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1650115481963</updated>
+    </task>
+    <task id="LOCAL-00222" summary="220416 commit">
+      <created>1650115737058</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1650115737058</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="ToolWindowManager">
