@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220417 commit">
-      <change afterPath="$PROJECT_DIR$/BJ/Silver/11728.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220417 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,13 +291,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00178" summary="220329 commit">
-      <created>1648565167712</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1648565167712</updated>
     </task>
     <task id="LOCAL-00179" summary="220330 commit SQL">
       <created>1648604020760</created>
@@ -638,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650190091861</updated>
     </task>
-    <option name="localTasksCounter" value="227" />
+    <task id="LOCAL-00227" summary="🤪220417 commit">
+      <created>1650191787849</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1650191787849</updated>
+    </task>
+    <option name="localTasksCounter" value="228" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -708,7 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220405 commit" />
     <MESSAGE value="220406 commit SQL" />
     <MESSAGE value="220406 commit" />
     <MESSAGE value="220407 commit SQL" />
@@ -732,6 +728,7 @@
     <MESSAGE value="220416 commit SQL" />
     <MESSAGE value="220416 commit" />
     <MESSAGE value="220417 commit SQL" />
+    <MESSAGE value="220417 commit" />
     <MESSAGE value="220417 commit" />
     <option name="LAST_COMMIT_MESSAGE" value="220417 commit" />
   </component>
