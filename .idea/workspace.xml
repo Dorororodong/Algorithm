@@ -4,7 +4,133 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220418 commit" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220419 commit SQL">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/13_백트래킹/14888.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/13_백트래킹/14889.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/13_백트래킹/15649.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/13_백트래킹/15650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/13_백트래킹/15651.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/13_백트래킹/15652.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/13_백트래킹/2580.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/13_백트래킹/9663.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/1003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/10844.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/11053.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/11054.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/1149.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/12865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/1463.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/1904.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/1912.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/1932.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/2156.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/2565.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/2579.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/9184.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/9251.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/14_동적 계획법 1/9461.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/15_그리디 알고리즘/11047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/15_그리디 알고리즘/11399.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/15_그리디 알고리즘/13305.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/15_그리디 알고리즘/1541.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/15_그리디 알고리즘/1931.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/1010.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/1037.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/11050.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/11051.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/1676.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/1934.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/2004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/2609.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/2981.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/3036.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/5086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/16_정수론 및 조합론/9375.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/17_스택/10773.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/17_스택/10828.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/17_스택/17298.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/17_스택/1874.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/17_스택/4949.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/17_스택/9012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/18_큐, 덱/1021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/18_큐, 덱/10866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/18_큐, 덱/11866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/18_큐, 덱/18258.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/18_큐, 덱/1966.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/18_큐, 덱/2164.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/18_큐, 덱/5430.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/10830.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/11401.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/11444.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/1629.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/1780.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/1992.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/2630.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/2740.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/19_분할 정복/6549.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/20_이분 탐색/10816.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/20_이분 탐색/12015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/20_이분 탐색/1300.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/20_이분 탐색/1654.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/20_이분 탐색/1920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/20_이분 탐색/2110.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/20_이분 탐색/2805.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/21_우선순위 큐/11279.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/21_우선순위 큐/11286.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/21_우선순위 큐/1655.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/21_우선순위 큐/1927.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/22_동적 계획법 2/10942.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/22_동적 계획법 2/11049.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/22_동적 계획법 2/11066.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/22_동적 계획법 2/1520.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/22_동적 계획법 2/2293.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/22_동적 계획법 2/2629.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/22_동적 계획법 2/7579.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/1012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/1260.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/1697.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/1707.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/2178.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/2206.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/2606.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/2667.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/7562.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/7569.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/23_DFS와 BFS/7576.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/27_트리/1167.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/27_트리/11725.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/27_트리/1967.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/27_트리/1991.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/27_트리/2263.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/27_트리/4803.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/27_트리/5639.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/31_기하/1069.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/31_기하/11758.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/31_기하/17386.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/31_기하/17387.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/31_기하/20149.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/31_기하/2162.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/31_기하/2166.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/31_기하/7869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/32_동적 계획법 3/1086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/32_동적 계획법 3/11723.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/32_동적 계획법 3/1311.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/32_동적 계획법 3/17404.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/32_동적 계획법 3/2098.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/32_동적 계획법 3/2482.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/11505.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/11659.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/1168.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/12899.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/1517.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/16975.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/2042.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/2357.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/37_세그먼트 트리/9345.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Silver/11660.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/16_누적 합/11660.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/Silver/2559.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/16_누적 합/2559.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,13 +417,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00181" summary="220331 commit SQL">
-      <created>1648730211486</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1648730211486</updated>
     </task>
     <task id="LOCAL-00182" summary="220331 commit">
       <created>1648735821235</created>
@@ -635,7 +754,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650277254423</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="220419 commit SQL">
+      <created>1650367074335</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1650367074335</updated>
+    </task>
+    <option name="localTasksCounter" value="231" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -705,7 +831,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220407 commit SQL" />
     <MESSAGE value="220407 commit" />
     <MESSAGE value="220408 commit SQL" />
     <MESSAGE value="220408 commit" />
@@ -730,7 +855,8 @@
     <MESSAGE value="220417 commit" />
     <MESSAGE value="220418 commit SQL" />
     <MESSAGE value="220418 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220418 commit" />
+    <MESSAGE value="220419 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="220419 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
