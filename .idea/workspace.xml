@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220420 commit" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220421 commit SQL">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/26_투 포인터/3273.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/26_투 포인터/3273.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +162,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11719">
+  <component name="RunManager" selected="Python.3273">
     <configuration name="11719" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,9 +277,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3273" />
         <item itemvalue="Python.11719" />
         <item itemvalue="Python.11722" />
-        <item itemvalue="Python.3273" />
         <item itemvalue="Python.16139" />
         <item itemvalue="Python.11728" />
       </list>
@@ -293,13 +296,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00188" summary="220402 commit">
-      <created>1648910683979</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1648910683979</updated>
     </task>
     <task id="LOCAL-00189" summary="220403 commit SQL">
       <created>1648984179097</created>
@@ -637,7 +633,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650465401781</updated>
     </task>
-    <option name="localTasksCounter" value="237" />
+    <task id="LOCAL-00237" summary="🤪220421 commit SQL">
+      <created>1650547537845</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1650547537845</updated>
+    </task>
+    <option name="localTasksCounter" value="238" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -707,7 +710,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220409 commit" />
     <MESSAGE value="220410 commit SQL" />
     <MESSAGE value="220410 commit" />
     <MESSAGE value="220411 commit SQL" />
@@ -732,7 +734,8 @@
     <MESSAGE value="220419 commit" />
     <MESSAGE value="220420 commit SQL" />
     <MESSAGE value="220420 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220420 commit" />
+    <MESSAGE value="220421 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="220421 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
