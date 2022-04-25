@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪220425 commit SQL">
-      <change afterPath="$PROJECT_DIR$/BJ/Silver/2693.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220425 commit">
+      <change afterPath="$PROJECT_DIR$/BJ/Bronze/1977.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +168,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2693">
+  <component name="RunManager" selected="Python.1977">
     <configuration name="1015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,6 +211,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1977" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/1977.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2003 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,27 +245,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Silver/2003.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Silver" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\SSAFY\Desktop\Algorithm\BJ\Silver\2003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,19 +297,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.2003" />
       <item itemvalue="Python.2003 (1)" />
       <item itemvalue="Python.2702" />
       <item itemvalue="Python.1015" />
       <item itemvalue="Python.2693" />
+      <item itemvalue="Python.1977" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1977" />
         <item itemvalue="Python.2693" />
         <item itemvalue="Python.1015" />
         <item itemvalue="Python.2702" />
         <item itemvalue="Python.2003 (1)" />
-        <item itemvalue="Python.2003" />
       </list>
     </recent_temporary>
   </component>
@@ -324,13 +324,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00199" summary="🤪220407 commit SQL">
-      <created>1649337507495</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1649337507496</updated>
     </task>
     <task id="LOCAL-00200" summary="🤪220407 commit">
       <created>1649342595995</created>
@@ -668,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650884653266</updated>
     </task>
-    <option name="localTasksCounter" value="248" />
+    <task id="LOCAL-00248" summary="220425 commit">
+      <created>1650885098145</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1650885098145</updated>
+    </task>
+    <option name="localTasksCounter" value="249" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -738,7 +738,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220414 commit SQL" />
     <MESSAGE value="220414 commit" />
     <MESSAGE value="220415 commit SQL" />
     <MESSAGE value="220415 commit" />
@@ -763,7 +762,8 @@
     <MESSAGE value="220424 commit SQL" />
     <MESSAGE value="220424 commit" />
     <MESSAGE value="220425 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="220425 commit SQL" />
+    <MESSAGE value="220425 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220425 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
