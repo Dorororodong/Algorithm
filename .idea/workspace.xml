@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220425 commit">
-      <change afterPath="$PROJECT_DIR$/BJ/Silver/10974.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Database/1581.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,13 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00202" summary="🤪220408 commit">
-      <created>1649429204223</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1649429204223</updated>
     </task>
     <task id="LOCAL-00203" summary="220409 commit SQL">
       <created>1649506414628</created>
@@ -668,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650887316663</updated>
     </task>
-    <option name="localTasksCounter" value="251" />
+    <task id="LOCAL-00251" summary="220425 commit">
+      <created>1650887987842</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1650887987842</updated>
+    </task>
+    <option name="localTasksCounter" value="252" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -797,6 +798,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="res" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
