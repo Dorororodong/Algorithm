@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220513 commit">
-      <change afterPath="$PROJECT_DIR$/BJ/Silver/16948.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Database/1667.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -325,13 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00245" summary="220424 commit">
-      <created>1650784578793</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1650784578793</updated>
     </task>
     <task id="LOCAL-00246" summary="220424 commit">
       <created>1650785966593</created>
@@ -669,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652452155322</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="220513 commit">
+      <created>1652453337346</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1652453337346</updated>
+    </task>
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="ToolWindowManager">
