@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220523 commit">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Database/1141.sql" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220523 commit SQL">
+      <change afterPath="$PROJECT_DIR$/BJ/Bronze/2444.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +169,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14503">
+  <component name="RunManager" selected="Python.2444">
     <configuration name="10101" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5893" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2444" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,7 +287,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/5893.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/2444.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +298,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.5893" />
       <item itemvalue="Python.10101" />
       <item itemvalue="Python.2442" />
       <item itemvalue="Python.2443" />
       <item itemvalue="Python.14503" />
+      <item itemvalue="Python.2444" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2444" />
         <item itemvalue="Python.14503" />
         <item itemvalue="Python.2443" />
         <item itemvalue="Python.2442" />
         <item itemvalue="Python.10101" />
-        <item itemvalue="Python.5893" />
       </list>
     </recent_temporary>
   </component>
@@ -325,13 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00269" summary="220503 commit">
-      <created>1651587029706</created>
-      <option name="number" value="00269" />
-      <option name="presentableId" value="LOCAL-00269" />
-      <option name="project" value="LOCAL" />
-      <updated>1651587029706</updated>
     </task>
     <task id="LOCAL-00270" summary="220504 commit SQL">
       <created>1651671424996</created>
@@ -669,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653306044170</updated>
     </task>
-    <option name="localTasksCounter" value="318" />
+    <task id="LOCAL-00318" summary="220523 commit SQL">
+      <created>1653309160929</created>
+      <option name="number" value="00318" />
+      <option name="presentableId" value="LOCAL-00318" />
+      <option name="project" value="LOCAL" />
+      <updated>1653309160929</updated>
+    </task>
+    <option name="localTasksCounter" value="319" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -739,7 +739,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220511 commit SQL" />
     <MESSAGE value="220511 commit" />
     <MESSAGE value="220512 commit SQL" />
     <MESSAGE value="220512 commit" />
@@ -764,7 +763,8 @@
     <MESSAGE value="220522 commit" />
     <MESSAGE value="220522 commit SQL" />
     <MESSAGE value="220523 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220523 commit" />
+    <MESSAGE value="220523 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="220523 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
