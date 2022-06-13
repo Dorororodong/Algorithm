@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220611 commit">
-      <change afterPath="$PROJECT_DIR$/BJ/Bronze/5361.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="220612 commit">
+      <change afterPath="$PROJECT_DIR$/BJ/Bronze/1264.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +169,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.8545">
+  <component name="RunManager" selected="Python.1264">
     <configuration name="11004" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2744" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1264" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/2744.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/1264.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +298,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.2744" />
       <item itemvalue="Python.2953" />
       <item itemvalue="Python.3460" />
       <item itemvalue="Python.5361" />
       <item itemvalue="Python.8545" />
+      <item itemvalue="Python.1264" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1264" />
         <item itemvalue="Python.8545" />
         <item itemvalue="Python.5361" />
         <item itemvalue="Python.3460" />
         <item itemvalue="Python.2953" />
-        <item itemvalue="Python.2744" />
       </list>
     </recent_temporary>
   </component>
@@ -325,20 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00297" summary="220514 commit">
-      <created>1652535995664</created>
-      <option name="number" value="00297" />
-      <option name="presentableId" value="LOCAL-00297" />
-      <option name="project" value="LOCAL" />
-      <updated>1652535995664</updated>
-    </task>
-    <task id="LOCAL-00298" summary="220514 commit">
-      <created>1652536119514</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
-      <option name="project" value="LOCAL" />
-      <updated>1652536119514</updated>
     </task>
     <task id="LOCAL-00299" summary="220514 commit">
       <created>1652536200393</created>
@@ -669,7 +655,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654949726333</updated>
     </task>
-    <option name="localTasksCounter" value="346" />
+    <task id="LOCAL-00346" summary="220612 commit">
+      <created>1655042699413</created>
+      <option name="number" value="00346" />
+      <option name="presentableId" value="LOCAL-00346" />
+      <option name="project" value="LOCAL" />
+      <updated>1655042699414</updated>
+    </task>
+    <task id="LOCAL-00347" summary="220612 commit">
+      <created>1655042859937</created>
+      <option name="number" value="00347" />
+      <option name="presentableId" value="LOCAL-00347" />
+      <option name="project" value="LOCAL" />
+      <updated>1655042859937</updated>
+    </task>
+    <option name="localTasksCounter" value="348" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -750,7 +750,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220525 commit SQL" />
     <MESSAGE value="220526 commit" />
     <MESSAGE value="220526 commit SQL" />
     <MESSAGE value="220527 commit" />
@@ -775,7 +774,8 @@
     <MESSAGE value="220609 commit" />
     <MESSAGE value="220610 commit" />
     <MESSAGE value="220611 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="220611 commit" />
+    <MESSAGE value="220612 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="220612 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
