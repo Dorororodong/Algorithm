@@ -169,7 +169,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5597">
+  <component name="RunManager" selected="Python.종이_자르기">
     <configuration name="11004" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5988" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="종이_자르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level0" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/5988.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level0/종이_자르기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +298,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.5988" />
       <item itemvalue="Python.25083" />
       <item itemvalue="Python.25304" />
       <item itemvalue="Python.1157" />
       <item itemvalue="Python.5597" />
+      <item itemvalue="Python.종이_자르기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.종이_자르기" />
         <item itemvalue="Python.5597" />
         <item itemvalue="Python.1157" />
         <item itemvalue="Python.25304" />
         <item itemvalue="Python.25083" />
-        <item itemvalue="Python.5988" />
       </list>
     </recent_temporary>
   </component>
