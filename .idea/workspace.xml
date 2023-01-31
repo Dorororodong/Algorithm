@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230131 commit">
-      <change afterPath="$PROJECT_DIR$/PG/SQL/Lv.1/조건에_맞는_회원수_구하기.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230131 commit SQL">
+      <change afterPath="$PROJECT_DIR$/PG/SQL/Lv.1/조건에_맞는_도서_리스트_출력하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,13 +324,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00311" summary="220520 commit">
-      <created>1653055744460</created>
-      <option name="number" value="00311" />
-      <option name="presentableId" value="LOCAL-00311" />
-      <option name="project" value="LOCAL" />
-      <updated>1653055744460</updated>
     </task>
     <task id="LOCAL-00312" summary="220521 commit">
       <created>1653140949734</created>
@@ -668,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675164597031</updated>
     </task>
-    <option name="localTasksCounter" value="360" />
+    <task id="LOCAL-00360" summary="230131 commit SQL">
+      <created>1675164918343</created>
+      <option name="number" value="00360" />
+      <option name="presentableId" value="LOCAL-00360" />
+      <option name="project" value="LOCAL" />
+      <updated>1675164918343</updated>
+    </task>
+    <option name="localTasksCounter" value="361" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -772,9 +772,9 @@
     <MESSAGE value="220723 commit" />
     <MESSAGE value="221023 commit" />
     <MESSAGE value="230129 commit SQL" />
-    <MESSAGE value="230131 commit SQL" />
     <MESSAGE value="230131 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="230131 commit" />
+    <MESSAGE value="230131 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="230131 commit SQL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
