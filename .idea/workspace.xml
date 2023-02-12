@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230212 commit SQL">
-      <change afterPath="$PROJECT_DIR$/PG/SQL/Lv.1/강원도에_위치한_생산공장_목록_출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/SQL/Lv.4/서울에_위치한_식당_목록_출력하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,20 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00322" summary="220526 commit">
-      <created>1653558949550</created>
-      <option name="number" value="00322" />
-      <option name="presentableId" value="LOCAL-00322" />
-      <option name="project" value="LOCAL" />
-      <updated>1653558949550</updated>
-    </task>
-    <task id="LOCAL-00323" summary="220526 commit SQL">
-      <created>1653560509587</created>
-      <option name="number" value="00323" />
-      <option name="presentableId" value="LOCAL-00323" />
-      <option name="project" value="LOCAL" />
-      <updated>1653560509587</updated>
     </task>
     <task id="LOCAL-00324" summary="220527 commit">
       <created>1653660240676</created>
@@ -668,7 +655,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676212182625</updated>
     </task>
-    <option name="localTasksCounter" value="371" />
+    <task id="LOCAL-00371" summary="230212 commit SQL">
+      <created>1676212347189</created>
+      <option name="number" value="00371" />
+      <option name="presentableId" value="LOCAL-00371" />
+      <option name="project" value="LOCAL" />
+      <updated>1676212347189</updated>
+    </task>
+    <task id="LOCAL-00372" summary="230212 commit SQL">
+      <created>1676212548180</created>
+      <option name="number" value="00372" />
+      <option name="presentableId" value="LOCAL-00372" />
+      <option name="project" value="LOCAL" />
+      <updated>1676212548180</updated>
+    </task>
+    <option name="localTasksCounter" value="373" />
     <servers />
   </component>
   <component name="ToolWindowManager">
