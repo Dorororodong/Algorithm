@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230131 commit SQL">
-      <change afterPath="$PROJECT_DIR$/PG/SQL/Lv.1/조건에_맞는_도서_리스트_출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/SQL/Lv.1/경기도에_위치한_식품창고_목록_출력하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,13 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00312" summary="220521 commit">
-      <created>1653140949734</created>
-      <option name="number" value="00312" />
-      <option name="presentableId" value="LOCAL-00312" />
-      <option name="project" value="LOCAL" />
-      <updated>1653140949734</updated>
     </task>
     <task id="LOCAL-00313" summary="220521 commit">
       <created>1653141519054</created>
@@ -668,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675164918343</updated>
     </task>
-    <option name="localTasksCounter" value="361" />
+    <task id="LOCAL-00361" summary="230131 commit SQL">
+      <created>1675165631209</created>
+      <option name="number" value="00361" />
+      <option name="presentableId" value="LOCAL-00361" />
+      <option name="project" value="LOCAL" />
+      <updated>1675165631209</updated>
+    </task>
+    <option name="localTasksCounter" value="362" />
     <servers />
   </component>
   <component name="ToolWindowManager">
