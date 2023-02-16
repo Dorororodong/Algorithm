@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230216 commit SQL">
-      <change afterPath="$PROJECT_DIR$/PG/Level1/삼총사.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230217 commit">
+      <change afterPath="$PROJECT_DIR$/PG/Level1/최소직사각형.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +169,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.삼총사">
+  <component name="RunManager" selected="Python.최소직사각형">
     <configuration name="예산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5597" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="최소직사각형" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/4_1차원 배열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/4_1차원 배열/5597.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/최소직사각형.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +298,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.5597" />
       <item itemvalue="Python.종이_자르기" />
       <item itemvalue="Python.다음에_올_숫자" />
       <item itemvalue="Python.예산" />
       <item itemvalue="Python.삼총사" />
+      <item itemvalue="Python.최소직사각형" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.최소직사각형" />
         <item itemvalue="Python.삼총사" />
         <item itemvalue="Python.예산" />
         <item itemvalue="Python.다음에_올_숫자" />
         <item itemvalue="Python.종이_자르기" />
-        <item itemvalue="Python.5597" />
       </list>
     </recent_temporary>
   </component>
@@ -325,13 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00343" summary="220609 commit">
-      <created>1654782212409</created>
-      <option name="number" value="00343" />
-      <option name="presentableId" value="LOCAL-00343" />
-      <option name="project" value="LOCAL" />
-      <updated>1654782212410</updated>
     </task>
     <task id="LOCAL-00344" summary="220610 commit">
       <created>1654870370502</created>
@@ -669,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676559229945</updated>
     </task>
-    <option name="localTasksCounter" value="392" />
+    <task id="LOCAL-00392" summary="230217 commit">
+      <created>1676560286422</created>
+      <option name="number" value="00392" />
+      <option name="presentableId" value="LOCAL-00392" />
+      <option name="project" value="LOCAL" />
+      <updated>1676560286422</updated>
+    </task>
+    <option name="localTasksCounter" value="393" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -750,7 +750,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220605 commit" />
     <MESSAGE value="220606 commit" />
     <MESSAGE value="220607 commit" />
     <MESSAGE value="220608 commit" />
@@ -775,7 +774,8 @@
     <MESSAGE value="230215 commit" />
     <MESSAGE value="230216 commit SQL" />
     <MESSAGE value="230216 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="230216 commit SQL" />
+    <MESSAGE value="230217 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="230217 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
