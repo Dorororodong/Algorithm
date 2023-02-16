@@ -1,0 +1,32 @@
+'''
+SELECT FOOD_TYPE, REST_ID, REST_NAME, FAVORITES
+FROM REST_INFO
+WHERE (FOOD_TYPE, FAVORITES) IN (SELECT FOOD_TYPE, MAX(FAVORITES)
+                                FROM REST_INFO
+                                GROUP BY FOOD_TYPE)
+ORDER BY FOOD_TYPE DESC;
+
+한식	00001	은돼지식당	734
+중식	00015	만정	20
+일식	00004	스시사카우스	230
+양식	00003	따띠따띠뜨	102
+분식	00008	애플우스	151
+'''
+
+'''
+내림차순을 적용시켜야!
+'''
+
+'''
+# 안됨
+SELECT FOOD_TYPE, REST_ID, REST_NAME, MAX(FAVORITES)
+FROM REST_INFO
+GROUP BY FOOD_TYPE
+ORDER BY FOOD_TYPE DESC;
+
+한식	00001	은돼지식당	734
+중식	00015	만정	20
+일식	00002	하이가쯔네	230
+양식	00003	따띠따띠뜨	102
+분식	00008	애플우스	151
+'''
