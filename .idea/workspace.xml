@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230216 commit SQL">
-      <change afterPath="$PROJECT_DIR$/PG/SQL/Lv.4/식품분류_가장_비_식품의_정보_조회하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/Level1/삼총사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +169,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.예산">
+  <component name="RunManager" selected="Python.삼총사">
     <configuration name="예산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1157" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="삼총사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ/Bronze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/Bronze/1157.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/삼총사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +298,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.1157" />
       <item itemvalue="Python.5597" />
       <item itemvalue="Python.종이_자르기" />
       <item itemvalue="Python.다음에_올_숫자" />
       <item itemvalue="Python.예산" />
+      <item itemvalue="Python.삼총사" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.삼총사" />
         <item itemvalue="Python.예산" />
         <item itemvalue="Python.다음에_올_숫자" />
         <item itemvalue="Python.종이_자르기" />
         <item itemvalue="Python.5597" />
-        <item itemvalue="Python.1157" />
       </list>
     </recent_temporary>
   </component>
@@ -325,13 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00342" summary="220608 commit">
-      <created>1654698748565</created>
-      <option name="number" value="00342" />
-      <option name="presentableId" value="LOCAL-00342" />
-      <option name="project" value="LOCAL" />
-      <updated>1654698748566</updated>
     </task>
     <task id="LOCAL-00343" summary="220609 commit">
       <created>1654782212409</created>
@@ -669,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676558726750</updated>
     </task>
-    <option name="localTasksCounter" value="391" />
+    <task id="LOCAL-00391" summary="230216 commit SQL">
+      <created>1676559229945</created>
+      <option name="number" value="00391" />
+      <option name="presentableId" value="LOCAL-00391" />
+      <option name="project" value="LOCAL" />
+      <updated>1676559229945</updated>
+    </task>
+    <option name="localTasksCounter" value="392" />
     <servers />
   </component>
   <component name="ToolWindowManager">
