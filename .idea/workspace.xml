@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230217 commit SQL">
-      <change afterPath="$PROJECT_DIR$/PG/Level1/포켓몬.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230217 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PG/Level1/완주하지_못한_선수.py" beforeDir="false" afterPath="$PROJECT_DIR$/PG/Level1/완주하지_못한_선수.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +169,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.포켓몬">
+  <component name="RunManager" selected="Python.완주하지_못한_선수">
     <configuration name="예산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="다음에_올_숫자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="완주하지_못한_선수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,11 +325,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PG/Level1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level0/다음에_올_숫자.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level1/완주하지_못한_선수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,19 +361,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.다음에_올_숫자" />
       <item itemvalue="Python.예산" />
       <item itemvalue="Python.크기_작은_부분문자열" />
       <item itemvalue="Python.2016년" />
       <item itemvalue="Python.포켓몬" />
+      <item itemvalue="Python.완주하지_못한_선수" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.완주하지_못한_선수" />
         <item itemvalue="Python.포켓몬" />
         <item itemvalue="Python.2016년" />
         <item itemvalue="Python.크기_작은_부분문자열" />
         <item itemvalue="Python.예산" />
-        <item itemvalue="Python.다음에_올_숫자" />
       </list>
     </recent_temporary>
   </component>
@@ -388,13 +388,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00353" summary="230129 commit SQL">
-      <created>1674998068276</created>
-      <option name="number" value="00353" />
-      <option name="presentableId" value="LOCAL-00353" />
-      <option name="project" value="LOCAL" />
-      <updated>1674998068276</updated>
     </task>
     <task id="LOCAL-00354" summary="230131 commit SQL">
       <created>1675094160248</created>
@@ -732,7 +725,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676619117031</updated>
     </task>
-    <option name="localTasksCounter" value="402" />
+    <task id="LOCAL-00402" summary="230217 commit">
+      <created>1676642443966</created>
+      <option name="number" value="00402" />
+      <option name="presentableId" value="LOCAL-00402" />
+      <option name="project" value="LOCAL" />
+      <updated>1676642443966</updated>
+    </task>
+    <option name="localTasksCounter" value="403" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -835,10 +835,10 @@
     <MESSAGE value="230215 commit" />
     <MESSAGE value="230216 commit SQL" />
     <MESSAGE value="230216 commit SQL" />
+    <MESSAGE value="230217 commit SQL" />
+    <MESSAGE value="230217 commit SQL" />
     <MESSAGE value="230217 commit" />
-    <MESSAGE value="230217 commit SQL" />
-    <MESSAGE value="230217 commit SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="230217 commit SQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="230217 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
