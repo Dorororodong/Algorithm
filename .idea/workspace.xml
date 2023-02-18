@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230218 commit">
-      <change afterPath="$PROJECT_DIR$/PG/Level2/프린터.py" afterDir="false" />
+    <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="🤪230218 commit">
+      <change afterPath="$PROJECT_DIR$/PG/Level2/주식가격.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,8 +169,8 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.프린터">
-    <configuration name="위장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.주식가격">
+    <configuration name="주식가격" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level2/위장.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level2/주식가격.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,19 +361,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.위장" />
       <item itemvalue="Python.베스트앨범" />
       <item itemvalue="Python.기능개발" />
       <item itemvalue="Python.올바른_괄호" />
       <item itemvalue="Python.프린터" />
+      <item itemvalue="Python.주식가격" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.주식가격" />
         <item itemvalue="Python.프린터" />
         <item itemvalue="Python.올바른_괄호" />
         <item itemvalue="Python.기능개발" />
         <item itemvalue="Python.베스트앨범" />
-        <item itemvalue="Python.위장" />
       </list>
     </recent_temporary>
   </component>
@@ -388,13 +388,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00366" summary="230212 commit SQL">
-      <created>1676208785081</created>
-      <option name="number" value="00366" />
-      <option name="presentableId" value="LOCAL-00366" />
-      <option name="project" value="LOCAL" />
-      <updated>1676208785081</updated>
     </task>
     <task id="LOCAL-00367" summary="230212 commit SQL">
       <created>1676209484976</created>
@@ -732,7 +725,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676707577934</updated>
     </task>
-    <option name="localTasksCounter" value="415" />
+    <task id="LOCAL-00415" summary="🤪230218 commit">
+      <created>1676713117606</created>
+      <option name="number" value="00415" />
+      <option name="presentableId" value="LOCAL-00415" />
+      <option name="project" value="LOCAL" />
+      <updated>1676713117606</updated>
+    </task>
+    <option name="localTasksCounter" value="416" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -813,7 +813,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="220613 commit" />
     <MESSAGE value="220614 commit" />
     <MESSAGE value="220723 commit" />
     <MESSAGE value="221023 commit" />
@@ -835,6 +834,7 @@
     <MESSAGE value="230217 commit" />
     <MESSAGE value="230217 commit" />
     <MESSAGE value="230218 commit SQL" />
+    <MESSAGE value="230218 commit" />
     <MESSAGE value="230218 commit" />
     <MESSAGE value="230218 commit" />
     <MESSAGE value="230218 commit" />
