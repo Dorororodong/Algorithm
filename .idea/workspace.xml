@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230218 commit">
+      <change afterPath="$PROJECT_DIR$/PG/Level2/프린터.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PG/Level2/올바른_괄호.py" beforeDir="false" afterPath="$PROJECT_DIR$/PG/Level2/올바른_괄호.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +169,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.올바른_괄호">
+  <component name="RunManager" selected="Python.프린터">
     <configuration name="위장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="H_Index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="프린터" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,7 +266,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level2/H_Index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level2/프린터.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,19 +361,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.H_Index" />
       <item itemvalue="Python.위장" />
       <item itemvalue="Python.베스트앨범" />
       <item itemvalue="Python.기능개발" />
       <item itemvalue="Python.올바른_괄호" />
+      <item itemvalue="Python.프린터" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.프린터" />
         <item itemvalue="Python.올바른_괄호" />
         <item itemvalue="Python.기능개발" />
         <item itemvalue="Python.베스트앨범" />
         <item itemvalue="Python.위장" />
-        <item itemvalue="Python.H_Index" />
       </list>
     </recent_temporary>
   </component>
@@ -388,13 +388,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00365" summary="230212 commit SQL">
-      <created>1676208695336</created>
-      <option name="number" value="00365" />
-      <option name="presentableId" value="LOCAL-00365" />
-      <option name="project" value="LOCAL" />
-      <updated>1676208695336</updated>
     </task>
     <task id="LOCAL-00366" summary="230212 commit SQL">
       <created>1676208785081</created>
@@ -732,7 +725,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676706317654</updated>
     </task>
-    <option name="localTasksCounter" value="414" />
+    <task id="LOCAL-00414" summary="230218 commit">
+      <created>1676707577934</created>
+      <option name="number" value="00414" />
+      <option name="presentableId" value="LOCAL-00414" />
+      <option name="project" value="LOCAL" />
+      <updated>1676707577934</updated>
+    </task>
+    <option name="localTasksCounter" value="415" />
     <servers />
   </component>
   <component name="ToolWindowManager">
