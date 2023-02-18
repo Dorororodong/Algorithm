@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00655c0f-4273-44b1-ba70-841346c3bd75" name="Default Changelist" comment="230218 commit">
-      <change afterPath="$PROJECT_DIR$/PG/Level2/타겟넘버.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PG/Level2/게임_맵_최단거리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +169,7 @@
       <recent name="C:\Users\SSAFY\Desktop\Algorithm\BJ\22단계" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.타겟넘버">
+  <component name="RunManager" selected="Python.게임_맵_최단거리">
     <configuration name="주식가격" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -380,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가장_큰_수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="게임_맵_최단거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -392,7 +392,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level2/가장_큰_수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PG/Level2/게임_맵_최단거리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,14 +403,15 @@
     </configuration>
     <list>
       <item itemvalue="Python.11004" />
-      <item itemvalue="Python.가장_큰_수" />
       <item itemvalue="Python.올바른_괄호" />
       <item itemvalue="Python.주식가격" />
       <item itemvalue="Python.모의고사" />
       <item itemvalue="Python.타겟넘버" />
+      <item itemvalue="Python.게임_맵_최단거리" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.게임_맵_최단거리" />
         <item itemvalue="Python.타겟넘버" />
         <item itemvalue="Python.모의고사" />
         <item itemvalue="Python.주식가격" />
@@ -429,13 +430,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632817639411</updated>
-    </task>
-    <task id="LOCAL-00368" summary="230212 commit SQL">
-      <created>1676211505190</created>
-      <option name="number" value="00368" />
-      <option name="presentableId" value="LOCAL-00368" />
-      <option name="project" value="LOCAL" />
-      <updated>1676211505190</updated>
     </task>
     <task id="LOCAL-00369" summary="230212 commit SQL">
       <created>1676212017837</created>
@@ -773,7 +767,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676714388109</updated>
     </task>
-    <option name="localTasksCounter" value="417" />
+    <task id="LOCAL-00417" summary="230218 commit">
+      <created>1676725665774</created>
+      <option name="number" value="00417" />
+      <option name="presentableId" value="LOCAL-00417" />
+      <option name="project" value="LOCAL" />
+      <updated>1676725665774</updated>
+    </task>
+    <option name="localTasksCounter" value="418" />
     <servers />
   </component>
   <component name="ToolWindowManager">
